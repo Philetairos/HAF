@@ -2,7 +2,7 @@
 	"name":	"Historically Accurate Finland",
 	"id":	"HAF",
 	"version":	"0.1",
-	"supported_game_version":	"1.0.2",
+	"supported_game_version":	"1.0.3",
 	"short_description":	"Historically accurate Finland",
 	"tags":	["Fixes", "Historical", "Map"],
 	"relationships":	[],
