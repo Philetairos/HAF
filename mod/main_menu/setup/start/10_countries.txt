@@ -49,7 +49,7 @@ countries = {
 			helsinge sjundea porvoo kymi_fi vyborg villmanstrand veckelax vederlax beryozovskoye ikalis raumo bjorneborg
 			hvittis sastmola birkala sastamala koppo hollola tavastehus janakkala forssa liljendal jamsa valkeasaari kyyrola
 			#ADDED
-			heinjoki jaskis ristiina mikkeli elimaki
+			heinjoki jaskis ristiina mikkeli
 			storkyro 
 		}
 
