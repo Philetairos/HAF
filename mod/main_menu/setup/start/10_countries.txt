@@ -493,55 +493,55 @@ countries = {
 	}
 
 
-	SMI = {
-		type = pop
+	# SMI = {
+		# type = pop
 
-		add_pops_from_locations = {
+		# add_pops_from_locations = {
 
-			lebesby kirkenes
+			# lebesby kirkenes
 
-			vindeln raisa
-			kautokeino varanger vardo deatnu porsanger karasjok hammerfest alta
-			asele lycksele sorsele arvidsjaur arjeplog silbojock volgsjo stensele tarna ortrask akkajaur hattfjelldal
-			pajala socksjock jokkmokk kvikkjock porjus gellivaara juckasjarvi mourionska enontakis raunala abisko sarek korpilombo nikkaluokta kasivarren
-			suonikyla koliskoj maaselka luujarvi akkala mootka pechenga prirechnyi nuorttijarvi
-			alakurti kiestinki uhtuo jyskyjarvi paanajarvi repola ontajarvi pieninka
+			# vindeln raisa
+			# kautokeino varanger vardo deatnu porsanger karasjok hammerfest alta
+			# asele lycksele sorsele arvidsjaur arjeplog silbojock volgsjo stensele tarna ortrask akkajaur hattfjelldal
+			# pajala socksjock jokkmokk kvikkjock porjus gellivaara juckasjarvi mourionska enontakis raunala abisko sarek korpilombo nikkaluokta kasivarren
+			# suonikyla koliskoj maaselka luujarvi akkala mootka pechenga prirechnyi nuorttijarvi
+			# alakurti kiestinki uhtuo jyskyjarvi paanajarvi repola ontajarvi pieninka
 
-			enare kittila sodankyla savukoski nunnanen ivalo utsjoki kuhmo
+			# enare kittila sodankyla savukoski nunnanen ivalo utsjoki kuhmo
 
-			ranua posio salla kemijarvi korvala pudasjarvi
+			# ranua posio salla kemijarvi korvala pudasjarvi
 
-			kantalahti olenitsa umba raivke varzuga pyalitsa tetrino kashkarantsy
-			kola ponoi svyatoy_nos kiltina semiostrov dalniye_zelentsy
+			# kantalahti olenitsa umba raivke varzuga pyalitsa tetrino kashkarantsy
+			# kola ponoi svyatoy_nos kiltina semiostrov dalniye_zelentsy
 
-			gratesk alvsby branna hienatiemi rovaniemi
+			# gratesk alvsby branna hienatiemi rovaniemi
 
-			taivalkoski kuusamo utajarvi siikalatva
+			# taivalkoski kuusamo utajarvi siikalatva
 
-			sotkamo paltamo suomussalmi kajana
+			# sotkamo paltamo suomussalmi kajana
 
-		}
+		# }
 
-		discovered_areas = {
-			pomorye_area
-			kola_area
-			arkhangelsk_area
-			west_novgorod_area
-		}
+		# discovered_areas = {
+			# pomorye_area
+			# kola_area
+			# arkhangelsk_area
+			# west_novgorod_area
+		# }
 
-		discovered_regions = {
-			scandinavian_region
+		# discovered_regions = {
+			# scandinavian_region
 
-		}
+		# }
 
-		include = "eurasian_tribe"
-		starting_technology_level = 0
-		government = {
-			type = tribe
-			heir_selection = tribal_oldest_male
-			ruler = random
-		}
-	}
+		# include = "eurasian_tribe"
+		# starting_technology_level = 0
+		# government = {
+			# type = tribe
+			# heir_selection = tribal_oldest_male
+			# ruler = random
+		# }
+	# }
 
 	KVE = {
 		type = pop
