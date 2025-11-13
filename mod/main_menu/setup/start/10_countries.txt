@@ -49,7 +49,7 @@ countries = {
 			helsinge sjundea porvoo kymi_fi vyborg villmanstrand veckelax vederlax beryozovskoye ikalis raumo bjorneborg
 			hvittis sastmola birkala sastamala koppo hollola tavastehus janakkala forssa liljendal jamsa valkeasaari kyyrola
 			#ADDED
-			heinjoki jaskis ristiina mikkeli
+			heinjoki jaskis ristiina mikkeli joroinen
 			storkyro 
 		}
 
@@ -640,6 +640,7 @@ countries = {
 			korela kurkijoki konevets joensuu sordavala vartsila ilomantsi lieksa juuka salmi loimola mohko
 			toksovo
 			vyborg villmanstrand veckelax vederlax valkeasaari kyyrola beryozovskoye heinjoki jaskis
+			semcojarvi suojarvi kinerma pryazha olonets 
 		}
 
 		discovered_regions = {
@@ -2001,15 +2002,14 @@ countries = {
 			novgorod golino staropolye staraya_russa chudovo kosichkoj zaplyusye kresttsy yazhelbitsy berezovets nebolchi
 			kholm velikiye_luki demon soltsy nalyuchi dolchinyo vlitsy sumino
 			tikhvin lipno_nov borovichi pikalyovo soltsy_kirishi maselga spirkovo lyubytino
-			olonets shuya_karelia lodenoye_pole vytegra vinnitsy
+			olonets lodenoye_pole vytegra vinnitsy
 			gorodetsk maksatikha udomlya smerdyn moshenskoye okhona belye_kresty ozerevo troshovo babayevo pudoga iksa village_onega
-			luda malye_oserki nyonoksa priluky pomorye arkhangelsk kholmogory vaymuga brin_navolok siya ust_pinega vershinino sheleksa yemetsk
+			luda malye_oserki nyonoksa priluky pomorye arkhangelsk kholmogory vaymuga brin_navolok ust_pinega vershinino sheleksa yemetsk
 			ramenki mednoye vyshny_volochyok bologoye zhabny torzhok kuvshinovo ostashkov
 			volosovskaya kargopol konyovo navolok shalakusha ves_yogonskaya vologda arkhangelskoye_vologda ustye
 			vozhega tavrenga tarnogsky_gorodok totma kubenskoye ust_kuloy shenga_kurya
-			verkhovazhye velsk rovdino vaga bereznik sogra nizhnyaya_toyma verkhnyaya_toyma
-			uftyuga koryazhma yarensk
-			ilyinsko_podomskoye ust_vayenga
+			verkhovazhye velsk rovdino vaga
+			ust_vayenga 
 			porkhov plyussa dubronjo spas_na_kholmu
 			rzheva_pustaya ashevo bezhanitsy podberezye visokoye kuretsk lyakhovichy maryovo lyubno svinort gorodets_luga izori tesov
 			bronnitsa gruzino veliky_porog valday pribuzh ivangorod izboishchi pashozero tervenichi megra voznesenye andomsky_pogost
@@ -2018,8 +2018,9 @@ countries = {
 			volok
 			#Removed from Novgorod due to lack of historical evidence of direct control/novgorodian settlement in 1337
 			#kurkijoki sordavala loimola salmi kinerma pryazha kondpoga sellinkyla lindjarvi semcojarvi karhumagi chelmuzhi puatane nadvoitsy vygozero
-			#saarijoki sumsky_posad unezhma maloshuyka
-			#unsure
+			#saarijoki sumsky_posad unezhma maloshuyka shuya_karelia 
+			
+			#unsure:
 			#vazhiny shyoltozero ostrechiny kizhi
 		}
 
@@ -2223,9 +2224,10 @@ countries = {
 	RSO = {
 		own_control_core = {
 			rostov borisogleb petrovsk_rostov
-			veliky_ustyug krasny_bor pyras porog alferovskaya nyuksenitsa gorodishna
-			ledengskoye shuyskoye kichmengsky_gorodok voznesenskoye
-			vekshenga zaostrovskoye krasavino ileza shangaly
+			veliky_ustyug pyras porog alferovskaya nyuksenitsa gorodishna
+			ledengskoye shuyskoye kichmengsky_gorodok 
+			vekshenga  krasavino ileza shangaly
+			krasny_bor voznesenskoye zaostrovskoye
 		}
 
 		starting_technology_level = 3
