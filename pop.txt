@@ -1,11 +1,14 @@
 Province:		Houses:		Population:
 	circa year 1350	1540s	circa year 1350	1540s
-Åland		900	1100	9000	11000
-Finland Proper	4000	7000	40000	70000
-Nyland	2000	4200	20000	42000
-Tavastia	1300	4600	13000	46000
-Satakunta	1800	4000	18000	40000
-Savonia	600	3400	6000	34000
+Åland		900	1100	9000	11000 DONE
+Finland Proper	4000	7000	40000	70000 DONE
+Nyland		2000	4200	20000	42000 DONE
+Tavastia	1300	4600	13000	46000 DONE
+Satakunta	1800	4000	18000	40000 DONE
+Savonia		600	3400	6000	34000
 Ostrobothnia	1000	3300	10000	33000
+(of which south 7000 and north 3000 arbitrarily decided by me)
 Viborg Karelia	1500	6300	15000	63000
 In total	13100	33900	131000	339000
+
+Kexholm Karelia 1500: 32000 -> 8000 in 1300?

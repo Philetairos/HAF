@@ -41,7 +41,7 @@ countries = {
 
 			umea lulea
 
-			abo poytis sauvo nystad ekenas lohja korsholm
+			abo poytis sauvo nystad ekenas lohja korsholm 
 			 
 		}
 		
@@ -50,7 +50,7 @@ countries = {
 			hvittis sastmola birkala sastamala koppo hollola tavastehus janakkala forssa liljendal jamsa valkeasaari kyyrola
 			#ADDED
 			heinjoki jaskis ristiina mikkeli joroinen
-			storkyro 
+			storkyro pedersore vora karleby
 		}
 
 
@@ -550,7 +550,7 @@ countries = {
 			ranea gratesk hienatiemi branna byske bodebyn alvsby tornea lulea pitea
 			rovaniemi
 			kiemi simo kuivaniemi
-			storkyro vora pedersore karleby brahestad uleaborg
+			vora pedersore karleby brahestad uleaborg
 
 		}
 		discovered_areas = {
@@ -2126,7 +2126,7 @@ countries = {
 			karelian
 			vepsian
 			bjarmian
-			sapmi
+			#sapmi
 		}
 
 	}
@@ -3273,7 +3273,7 @@ countries = {
 
 	ORE = {
 		own_control_core = {
-			oreshek toksovo korela konevets neva staraya_ladoga markovo martyshkino koporye
+			oreshek toksovo korela konevets neva staraya_ladoga markovo martyshkino koporye kurkijoki sordavala
 		}
 		starting_technology_level = 3
 		government = {

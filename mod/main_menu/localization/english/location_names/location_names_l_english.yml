@@ -115,7 +115,7 @@
  sastmola: "Merikarvia"
  birkala: "Pirkkala"
  sastamala: "Sastamala"
- orivesi: "Orivesi"
+ orivesi: "Ruovesi"
  koppo: "Tiukka"
  pedersore: "Pietarsaari"
  storkyro: "Isokyrö"
@@ -492,9 +492,9 @@
  curonian_coast: "Curonian Coast"
  toksovo: "Toksovo"
  valkeasaari: "Kivennapa"
- korela: "Korela" #Priozersk
+ korela: "Käkisalmi" #Priozersk
  kyyrola: "Muolaa"
- beryozovskoye: "Beryozovskoye" #Primorsk
+ beryozovskoye: "Koivisto" #Primorsk
  konevets: "Sakkula"
  neva: "Neva"
  oreshek: "Oreshek"
