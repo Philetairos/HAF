@@ -578,8 +578,8 @@ countries = {
 	TAV = {
 		type = pop
 		add_pops_from_locations = {
-			hollola tavastehus janakkala itis liljendal jyvaskyla jamsa saarijarvi viitasaari laukas sysma
-			orivesi lappo kaustby elimaki
+			koppo storkyro lappo helsinge sjundea porvoo liljendal ikalis raumo bjorneborg hvittis sastmola birkala
+			sastamala orivesi hollola lohja tavastehus janakkala forssa itis jamsa sysma kymi_fi
 		}
 
 		discovered_regions = {
@@ -605,7 +605,7 @@ countries = {
 	SVO = {
 		type = pop
 		add_pops_from_locations = {
-			mikkeli olofsborg heinola kangasniemi ristiina joroinen kuopio idensalmi rautavaara savonranta
+			mikkeli olofsborg heinola ristiina joroinen savonranta
 		}
 
 		discovered_regions = {
