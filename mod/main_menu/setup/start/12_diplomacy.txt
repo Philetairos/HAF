@@ -94,7 +94,7 @@ diplomacy_manager = {
     dependency = { first = NOV second = KZY subject_type = tributary }
     dependency = { first = NOV second = LYA subject_type = tributary }
     dependency = { first = NOV second = TBY subject_type = tributary }
-	dependency = { first = NOV second = KRL subject_type = tributary }
+	dependency = { first = NOV second = PRM subject_type = tributary }
 
     dependency = { first = GEN second = GAZ subject_type = vassal }
 

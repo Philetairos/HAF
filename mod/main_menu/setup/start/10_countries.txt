@@ -51,6 +51,9 @@ countries = {
 			#ADDED
 			heinjoki jaskis ristiina mikkeli joroinen
 			storkyro pedersore vora karleby
+			kiemi brahestad
+			#Unsure
+			#kuivaniemi brahestad uleaborg simo itis sysma savonranta elimaki 
 		}
 
 
@@ -549,8 +552,9 @@ countries = {
 		add_pops_from_locations = {
 			ranea gratesk hienatiemi branna byske bodebyn alvsby tornea lulea pitea
 			rovaniemi
-			kiemi simo kuivaniemi
-			vora pedersore karleby brahestad uleaborg
+			simo kuivaniemi
+			karleby brahestad uleaborg
+			korvala kaustby
 
 		}
 		discovered_areas = {
@@ -575,125 +579,165 @@ countries = {
 
 
 
+	#TAV = {
+	#	type = pop
+	#	add_pops_from_locations = {
+	#		koppo storkyro lappo helsinge sjundea porvoo liljendal ikalis raumo bjorneborg hvittis sastmola birkala
+	#		sastamala orivesi hollola lohja tavastehus janakkala forssa itis jamsa sysma kymi_fi
+	#	}
+	#
+	#	discovered_regions = {
+	#		scandinavian_region
+	#	}
+	#	discovered_areas = {
+	#		pomorye_area
+	#		kola_area
+	#		arkhangelsk_area
+	#		west_novgorod_area
+	#	}
+	#
+#
+#		starting_technology_level = 0
+#		include = "eurasian_tribe"
+#		government = {
+#			type = tribe
+#			heir_selection = tribal_oldest_male
+#			ruler = random
+#		}
+#	}
 	TAV = {
-		type = pop
-		add_pops_from_locations = {
+		our_cores_conquered_by_others = {
 			koppo storkyro lappo helsinge sjundea porvoo liljendal ikalis raumo bjorneborg hvittis sastmola birkala
 			sastamala orivesi hollola lohja tavastehus janakkala forssa itis jamsa sysma kymi_fi
 		}
+		capital = tavastehus
 
-		discovered_regions = {
-			scandinavian_region
-		}
-		discovered_areas = {
-			pomorye_area
-			kola_area
-			arkhangelsk_area
-			west_novgorod_area
-		}
-
-
-		starting_technology_level = 0
-		include = "eurasian_tribe"
+		include = "catholic_monarchy_not_present"
+		include = "expl_scandinavia"
 		government = {
-			type = tribe
-			heir_selection = tribal_oldest_male
 			ruler = random
 		}
 	}
+
+
+	#SVO = {
+	#	type = pop
+	#	add_pops_from_locations = {
+	#		mikkeli olofsborg heinola ristiina joroinen savonranta
+	#	}
+#
+#		discovered_regions = {
+#			scandinavian_region
+#		}
+#		discovered_areas = {
+#			pomorye_area
+#			kola_area
+#			arkhangelsk_area
+#			west_novgorod_area
+#		}
+#
+#
+#		starting_technology_level = 0
+#		include = "eurasian_tribe"
+#		government = {
+#			type = tribe
+#			heir_selection = tribal_oldest_male
+#			ruler = random
+#		}
+#	}
 
 	SVO = {
-		type = pop
-		add_pops_from_locations = {
+		our_cores_conquered_by_others = {
 			mikkeli olofsborg heinola ristiina joroinen savonranta
 		}
+		capital = mikkeli
 
-		discovered_regions = {
-			scandinavian_region
-		}
-		discovered_areas = {
-			pomorye_area
-			kola_area
-			arkhangelsk_area
-			west_novgorod_area
-		}
-
-
-		starting_technology_level = 0
-		include = "eurasian_tribe"
+		include = "catholic_monarchy_not_present"
+		include = "expl_scandinavia"
 		government = {
-			type = tribe
-			heir_selection = tribal_oldest_male
 			ruler = random
 		}
 	}
 
+#	KRL = {
+#		type = pop
+#		add_pops_from_locations = {
+#			maloshuyka sumsky_posad unezhma vygozero
+#			chelmuzhi
+#			karhumagi kizhi lindjarvi nadvoitsy puatane sellinkyla
+#			shuya_karelia kondpoga
+#			kem saarijoki
+#			korela kurkijoki konevets joensuu sordavala vartsila ilomantsi salmi loimola
+#			toksovo
+#			vyborg villmanstrand veckelax vederlax valkeasaari kyyrola beryozovskoye heinjoki jaskis
+#			semcojarvi kinerma pryazha olonets 
+#		}
+#
+#		discovered_regions = {
+#			scandinavian_region
+#		}
+#		discovered_areas = {
+#			pomorye_area
+#			kola_area
+#			arkhangelsk_area
+#			west_novgorod_area
+#		}
+#
+#
+	#	starting_technology_level = 0
+	#	include = "eurasian_tribe"
+	#	government = {
+	#		type = tribe
+	#		heir_selection = tribal_oldest_male
+	#		ruler = random
+	#	}
+	#}
+	
 	KRL = {
-		type = pop
-		add_pops_from_locations = {
-			maloshuyka sumsky_posad unezhma vygozero
-			chelmuzhi
-			repola karhumagi kizhi lindjarvi nadvoitsy puatane sellinkyla
-			shuya_karelia kondpoga
-			tunkuo ontajarvi
-			kem saarijoki
-			korela kurkijoki konevets joensuu sordavala vartsila ilomantsi lieksa juuka salmi loimola mohko
-			toksovo
+		our_cores_conquered_by_others = {
 			vyborg villmanstrand veckelax vederlax valkeasaari kyyrola beryozovskoye heinjoki jaskis
-			semcojarvi suojarvi kinerma pryazha olonets 
+			elimaki olonets korela kurkijoki konevets joensuu sordavala vartsila ilomantsi salmi loimola kinerma
 		}
+		capital = korela
 
-		discovered_regions = {
-			scandinavian_region
-		}
-		discovered_areas = {
-			pomorye_area
-			kola_area
-			arkhangelsk_area
-			west_novgorod_area
-		}
-
-
-		starting_technology_level = 0
-		include = "eurasian_tribe"
+		include = "russian_principality_no_coast_not_present"
+		include = "expl_novgorod"
 		government = {
-			type = tribe
-			heir_selection = tribal_oldest_male
 			ruler = random
 		}
 	}
 
-	BJA = {
-		type = pop
-		add_pops_from_locations = {
-			mezen vashka bolshaya_laptyuga
-			zanyukhcha verkola shardonem pokshenga chakola ust_chulasa koptyuga chirki
-			kuloy pinega
-			okladnikova_sloboda khimzha leshukonskoye
-		}
-
-		discovered_regions = {
-			scandinavian_region
-		}
-		discovered_areas = {
-			pomorye_area
-			kola_area
-			arkhangelsk_area
-			west_novgorod_area
-		}
-		discovered_provinces = {
-			white_karelia_province
-		}
-
-
-		starting_technology_level = 0
-		include = "eurasian_tribe"
-		government = {
-			type = tribe
-			heir_selection = tribal_oldest_male
-			ruler = random
-		}
-	}
+	#BJA = {
+	#	type = pop
+	#	add_pops_from_locations = {
+	#		mezen vashka bolshaya_laptyuga
+	#		zanyukhcha verkola shardonem pokshenga chakola ust_chulasa koptyuga chirki
+	#		kuloy pinega
+	#		okladnikova_sloboda khimzha leshukonskoye
+	#	}
+#
+#		discovered_regions = {
+#			scandinavian_region
+#		}
+#		discovered_areas = {
+#			pomorye_area
+#			kola_area
+#			arkhangelsk_area
+#			west_novgorod_area
+#		}
+#		discovered_provinces = {
+#			white_karelia_province
+#		}
+#
+#
+#		starting_technology_level = 0
+#		include = "eurasian_tribe"
+#		government = {
+#			type = tribe
+#			heir_selection = tribal_oldest_male
+#			ruler = random
+#		}
+#	}
 
 	TEU = { #Teutonic Order
 		own_control_core = {
@@ -2008,8 +2052,9 @@ countries = {
 			ramenki mednoye vyshny_volochyok bologoye zhabny torzhok kuvshinovo ostashkov
 			volosovskaya kargopol konyovo navolok shalakusha ves_yogonskaya vologda arkhangelskoye_vologda ustye
 			vozhega tavrenga tarnogsky_gorodok totma kubenskoye ust_kuloy shenga_kurya
-			verkhovazhye velsk rovdino vaga
-			ust_vayenga 
+			verkhovazhye velsk rovdino vaga bereznik sogra nizhnyaya_toyma verkhnyaya_toyma
+			uftyuga koryazhma yarensk
+			ilyinsko_podomskoye ust_vayenga
 			porkhov plyussa dubronjo spas_na_kholmu
 			rzheva_pustaya ashevo bezhanitsy podberezye visokoye kuretsk lyakhovichy maryovo lyubno svinort gorodets_luga izori tesov
 			bronnitsa gruzino veliky_porog valday pribuzh ivangorod izboishchi pashozero tervenichi megra voznesenye andomsky_pogost
