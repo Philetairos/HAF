@@ -2058,7 +2058,7 @@ countries = {
 			porkhov plyussa dubronjo spas_na_kholmu
 			rzheva_pustaya ashevo bezhanitsy podberezye visokoye kuretsk lyakhovichy maryovo lyubno svinort gorodets_luga izori tesov
 			bronnitsa gruzino veliky_porog valday pribuzh ivangorod izboishchi pashozero tervenichi megra voznesenye andomsky_pogost
-			vodlozero shalskii rakitnya mikshino bernovo yezsk lyuban
+			vodlozero shalskii kizhi rakitnya mikshino bernovo yezsk lyuban
 			#Principality of Volokolansk
 			volok
 			#Removed from Novgorod due to lack of historical evidence of direct control/novgorodian settlement in 1337
@@ -2066,7 +2066,7 @@ countries = {
 			#saarijoki sumsky_posad unezhma maloshuyka shuya_karelia 
 			
 			#unsure:
-			#vazhiny shyoltozero ostrechiny kizhi
+			#vazhiny shyoltozero ostrechiny 
 		}
 
 		starting_technology_level = 3
