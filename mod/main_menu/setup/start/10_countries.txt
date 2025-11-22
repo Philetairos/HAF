@@ -2269,7 +2269,7 @@ countries = {
 			veliky_ustyug pyras porog alferovskaya nyuksenitsa gorodishna
 			ledengskoye shuyskoye kichmengsky_gorodok 
 			vekshenga  krasavino ileza shangaly
-			#krasny_bor voznesenskoye zaostrovskoye
+			krasny_bor voznesenskoye zaostrovskoye
 		}
 
 		starting_technology_level = 3

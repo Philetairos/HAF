@@ -23572,10 +23572,12 @@ verkhnyaya_toyma = {
 	define_pop = {	type = tribesmen	size = 0.621	culture = bjarmian	religion = muinaisusko }
 }
 malaya_ilesha = {
-	define_pop = {	type = peasants	size = 2.411	culture = pomor	religion = orthodox }
+	define_pop = {	type = peasants	size = 0.910	culture = pomor	religion = orthodox }
+	define_pop = {	type = tribesmen	size = 1.501	culture = bjarmian	religion = muinaisusko }
 }
 vyya = {
-	define_pop = {	type = peasants	size = 2.684	culture = pomor	religion = orthodox }
+	define_pop = {	type = peasants	size = 1.140	culture = pomor	religion = orthodox }
+	define_pop = {	type = tribesmen	size = 1.544	culture = bjarmian	religion = muinaisusko }
 }
 koryazhma = {
 	define_pop = {	type = clergy	size = 0.005	culture = novgorodian	religion = orthodox }

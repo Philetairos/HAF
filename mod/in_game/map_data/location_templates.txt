@@ -511,7 +511,7 @@ viinijarvi = { topography = lakes climate = arctic}
 koitere = { topography = lakes climate = arctic}
 nurmes = { topography = wetlands vegetation = forest climate = arctic religion = orthodox culture = karelian raw_material = lumber}
 lake_ladoga = { topography = lakes climate = arctic}
-kem = { topography = wetlands vegetation = forest climate = arctic religion = sapmi_shamanism culture = karelian raw_material = fish natural_harbor_suitability = 0.00}
+kem = { topography = wetlands vegetation = forest climate = arctic religion = sapmi_shamanism culture = karelian raw_material = fish natural_harbor_suitability = 0.25}
 keret = { topography = wetlands vegetation = forest climate = arctic religion = sapmi_shamanism culture = sapmi raw_material = pearls natural_harbor_suitability = 0.00}
 kovda = { topography = wetlands vegetation = forest climate = arctic religion = sapmi_shamanism culture = sapmi raw_material = lumber natural_harbor_suitability = 0.00}
 kriitina = { topography = wetlands vegetation = forest climate = arctic religion = sapmi_shamanism culture = sapmi raw_material = livestock natural_harbor_suitability = 0.00}
@@ -5350,7 +5350,7 @@ lake_kenozero_ark = { topography = lakes climate = arctic}
 lake_lacha = { topography = lakes climate = arctic}
 lake_lyokshmozero = { topography = lakes climate = arctic}
 lake_vodlozero = { topography = lakes climate = arctic}
-village_onega = { topography = flatland vegetation = forest climate = arctic religion = orthodox culture = pomor raw_material = fish natural_harbor_suitability = 0.00}
+village_onega = { topography = flatland vegetation = forest climate = arctic religion = orthodox culture = pomor raw_material = fish natural_harbor_suitability = 0.25}
 luda = { topography = flatland vegetation = forest climate = arctic religion = orthodox culture = pomor raw_material = pearls natural_harbor_suitability = 0.00}
 malye_oserki = { topography = flatland vegetation = forest climate = arctic religion = orthodox culture = pomor raw_material = fur}
 nyonoksa = { topography = flatland vegetation = forest climate = arctic religion = orthodox culture = pomor raw_material = salt natural_harbor_suitability = 0.00}
