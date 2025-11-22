@@ -382,7 +382,6 @@ sami_language = {
 	
 	male_names = {
 		name_abel
-		abo
         abrran
         ado
         aggi
