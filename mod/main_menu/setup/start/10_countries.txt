@@ -51,9 +51,9 @@ countries = {
 			#ADDED
 			heinjoki jaskis ristiina mikkeli joroinen
 			storkyro pedersore vora karleby
-			kiemi brahestad
+			kiemi brahestad tornea kuivaniemi sysma
 			#Unsure
-			#kuivaniemi brahestad uleaborg simo itis sysma savonranta elimaki
+			#uleaborg simo itis elimaki
 		}
 
 

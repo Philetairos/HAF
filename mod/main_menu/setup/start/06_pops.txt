@@ -682,8 +682,10 @@ skelleftea = {
 	define_pop = {	type = peasants	size = 0.243	culture = swedish	religion = catholic }
 	define_pop = {	type = tribesmen	size = 0.041	culture = sapmi	religion = sapmi_shamanism }
 }
-tornea = {
-	define_pop = {	type = tribesmen	size = 0.331	culture = kvens	religion = muinaisusko }
+tornea = { #753
+	define_pop = {	type = clergy	size = 0.005	culture = kvens	religion = catholic }
+	define_pop = {	type = peasants	size = 0.459	culture = kvens	religion = catholic }
+	define_pop = {	type = tribesmen	size = 0.231	culture = kvens	religion = muinaisusko }
 	define_pop = {	type = tribesmen	size = 0.058	culture = sapmi	religion = sapmi_shamanism }
 }
 bygdea = {
@@ -734,10 +736,10 @@ alvsby = {
 	define_pop = {	type = tribesmen	size = 0.024	culture = sapmi	religion = sapmi_shamanism }
 	define_pop = {	type = tribesmen	size = 0.073	culture = kvens	religion = muinaisusko }
 }
-kiemi = {
+kiemi = { #987
 	define_pop = {	type = clergy	size = 0.005	culture = kvens	religion = catholic }
-	define_pop = {	type = peasants	size = 0.886	culture = kvens	religion = catholic }
-	define_pop = {	type = tribesmen	size = 0.082	culture = kvens	religion = muinaisusko }
+	define_pop = {	type = peasants	size = 0.686	culture = kvens	religion = catholic }
+	define_pop = {	type = tribesmen	size = 0.282	culture = kvens	religion = muinaisusko }
 	define_pop = {	type = tribesmen	size = 0.014	culture = sapmi	religion = sapmi_shamanism }
 }
 pajala = {
@@ -775,9 +777,10 @@ siikalatva = { #151
 taivalkoski = { #115
 	define_pop = {	type = tribesmen	size = 0.115	culture = sapmi	religion = sapmi_shamanism }
 }
-kuivaniemi = { #312
-	define_pop = {	type = peasants	size = 0.125	culture = kvens	religion = catholic }
-	define_pop = {	type = tribesmen	size = 0.084	culture = kvens	religion = muinaisusko }
+kuivaniemi = { #817
+	define_pop = {	type = clergy	size = 0.005	culture = swedish	religion = catholic }
+	define_pop = {	type = peasants	size = 0.425	culture = kvens	religion = catholic }
+	define_pop = {	type = tribesmen	size = 0.284	culture = kvens	religion = muinaisusko }
 	define_pop = {	type = tribesmen	size = 0.090	culture = karelian	religion = orthodox }
 	define_pop = {	type = tribesmen	size = 0.013	culture = sapmi	religion = sapmi_shamanism }
 }
@@ -1119,9 +1122,10 @@ viitasaari = { #194
 laukas = { #131
 	define_pop = {	type = tribesmen	size = 0.131	culture = sapmi	religion = sapmi_shamanism }
 }
-sysma = { #997
-	define_pop = {	type = peasants	size = 0.232	culture = tavastian	religion = catholic }
-	define_pop = {	type = tribesmen	size = 0.765	culture = tavastian	religion = muinaisusko }
+sysma = { #1005
+	define_pop = {	type = clergy	size = 0.008	culture = tavastian	religion = catholic }
+	define_pop = {	type = peasants	size = 0.432	culture = tavastian	religion = catholic }
+	define_pop = {	type = tribesmen	size = 0.565	culture = tavastian	religion = muinaisusko }
 }
 paijanne = {
 }
@@ -24039,7 +24043,8 @@ yama = {
 }
 kargopol = {
 	define_pop = {	type = clergy	size = 0.020	culture = novgorodian	religion = orthodox }
-	define_pop = {	type = peasants	size = 3.224	culture = novgorodian	religion = orthodox }
+	define_pop = {	type = peasants	size = 1.112	culture = karelian	religion = orthodox }
+	define_pop = {	type = peasants	size = 2.112	culture = novgorodian	religion = orthodox }
 }
 iksa = {
 	define_pop = {	type = clergy	size = 0.010	culture = novgorodian	religion = orthodox }
