@@ -752,8 +752,8 @@ rovaniemi = {
 	define_pop = {	type = tribesmen	size = 0.024	culture = sapmi	religion = sapmi_shamanism }
 	define_pop = {	type = tribesmen	size = 0.073	culture = kvens	religion = muinaisusko }
 }
-simo = { #101
-	define_pop = {	type = tribesmen	size = 0.082	culture = kvens	religion = muinaisusko }
+simo = { #201
+	define_pop = {	type = tribesmen	size = 0.182	culture = kvens	religion = muinaisusko }
 	define_pop = {	type = tribesmen	size = 0.019	culture = sapmi	religion = sapmi_shamanism }
 }
 uleaborg = { #363
@@ -1865,7 +1865,6 @@ shyoltozero = {
 	define_pop = {	type = tribesmen	size = 0.609	culture = vepsian	religion = muinaisusko }
 }
 vazhiny = {
-	define_pop = {	type = clergy	size = 0.011	culture = novgorodian	religion = orthodox }
 	define_pop = {	type = peasants	size = 0.078	culture = karelian	religion = orthodox }
 	define_pop = {	type = peasants	size = 0.258	culture = novgorodian	religion = orthodox }
 	define_pop = {	type = peasants	size = 0.259	culture = karelian	religion = muinaisusko }
@@ -16385,9 +16384,10 @@ tallinn = {
 }
 narva = {
 	define_pop = {	type = clergy	size = 0.006	culture = german_baltic	religion = catholic }
-	define_pop = {	type = peasants	size = 0.623	culture = german_baltic	religion = catholic }
-	define_pop = {	type = peasants	size = 5.016	culture = estonian	religion = catholic }
+	define_pop = {	type = peasants	size = 0.511	culture = german_baltic	religion = catholic }
+	define_pop = {	type = peasants	size = 4.016	culture = estonian	religion = catholic }
 	define_pop = {	type = peasants	size = 0.623	culture = swedish	religion = catholic }
+	define_pop = {	type = peasants	size = 1.112	culture = votian	religion = catholic }
 }
 padise = {
 	define_pop = {	type = peasants	size = 4.596	culture = estonian	religion = catholic }
@@ -23886,7 +23886,8 @@ lyuban = {
 }
 markovo = {
 	define_pop = {	type = clergy	size = 0.005	culture = novgorodian	religion = orthodox }
-	define_pop = {	type = peasants	size = 4.507	culture = novgorodian	religion = orthodox }
+	define_pop = {	type = peasants	size = 2.404	culture = novgorodian	religion = orthodox }
+	define_pop = {	type = peasants	size = 2.103	culture = ingrian	religion = orthodox }
 }
 martyshkino = {
 	define_pop = {	type = clergy	size = 0.001	culture = ingrian	religion = orthodox }
@@ -23940,7 +23941,8 @@ pskov = {
 }
 gdov = {
 	define_pop = {	type = clergy	size = 0.012	culture = novgorodian	religion = orthodox }
-	define_pop = {	type = peasants	size = 6.278	culture = novgorodian	religion = orthodox }
+	define_pop = {	type = peasants	size = 5.154	culture = novgorodian	religion = orthodox }
+	define_pop = {	type = peasants	size = 1.124	culture = votian	religion = orthodox }
 }
 izborsk = {
 	define_pop = {	type = clergy	size = 0.002	culture = novgorodian	religion = orthodox }
@@ -24010,40 +24012,43 @@ koporye = {
 	define_pop = {	type = clergy	size = 0.003	culture = ingrian	religion = orthodox }
 	define_pop = {	type = peasants	size = 2.341	culture = ingrian	religion = orthodox }
 	define_pop = {	type = peasants	size = 1.666	culture = novgorodian	religion = orthodox }
-	define_pop = {	type = peasants	size = 0.328	culture = votian	religion = votian_religion }
+	define_pop = {	type = peasants	size = 0.328	culture = votian	religion = orthodox }
 	define_pop = {	type = tribesmen	size = 0.337	culture = votian	religion = votian_religion }
 }
 ivangorod = {
-	define_pop = {	type = peasants	size = 2.000	culture = novgorodian	religion = orthodox }
+	define_pop = {	type = peasants	size = 0.421	culture = novgorodian	religion = orthodox }
+	define_pop = {	type = peasants	size = 0.643	culture = votian	religion = orthodox }
+	define_pop = {	type = tribesmen	size = 0.936	culture = votian	religion = votian_religion }
 }
 izori = {
 	define_pop = {	type = peasants	size = 2.000	culture = novgorodian	religion = orthodox }
 }
 khotchino = {
 	define_pop = {	type = clergy	size = 0.004	culture = novgorodian	religion = orthodox }
-	define_pop = {	type = peasants	size = 4.009	culture = novgorodian	religion = orthodox }
+	define_pop = {	type = peasants	size = 2.406	culture = novgorodian	religion = orthodox }
+	define_pop = {	type = peasants	size = 1.603	culture = ingrian	religion = orthodox }
 }
 moloskovitsa = {
-	define_pop = {	type = peasants	size = 0.427	culture = ingrian	religion = orthodox }
+	define_pop = {	type = peasants	size = 0.427	culture = votian	religion = orthodox }
 	define_pop = {	type = peasants	size = 2.577	culture = novgorodian	religion = orthodox }
 }
 soikino = {
-	define_pop = {	type = peasants	size = 2.009	culture = ingrian	religion = orthodox }
+	define_pop = {	type = peasants	size = 0.496	culture = votian	religion = orthodox }
 	define_pop = {	type = peasants	size = 0.497	culture = novgorodian	religion = orthodox }
-	define_pop = {	type = peasants	size = 0.191	culture = votian	religion = votian_religion }
-	define_pop = {	type = tribesmen	size = 0.305	culture = votian	religion = votian_religion }
+	define_pop = {	type = tribesmen	size = 2.009	culture = votian	religion = votian_religion }
 }
 tesov = {
 	define_pop = {	type = peasants	size = 2.222	culture = novgorodian	religion = orthodox }
 }
 yama = {
-	define_pop = {	type = clergy	size = 0.005	culture = ingrian	religion = orthodox }
-	define_pop = {	type = peasants	size = 2.862	culture = ingrian	religion = orthodox }
+	define_pop = {	type = clergy	size = 0.005	culture = votian	religion = orthodox }
+	define_pop = {	type = peasants	size = 1.120	culture = votian	religion = orthodox }
+	define_pop = {	type = tribesmen	size = 1.742	culture = votian	religion = votian_religion }
 	define_pop = {	type = peasants	size = 0.945	culture = novgorodian	religion = orthodox }
 }
 kargopol = {
 	define_pop = {	type = clergy	size = 0.020	culture = novgorodian	religion = orthodox }
-	define_pop = {	type = peasants	size = 1.112	culture = karelian	religion = orthodox }
+	define_pop = {	type = peasants	size = 1.112	culture = vepsian	religion = orthodox }
 	define_pop = {	type = peasants	size = 2.112	culture = novgorodian	religion = orthodox }
 }
 iksa = {
