@@ -1138,11 +1138,11 @@ mikkeli = { #2 050
 	define_pop = {	type = tribesmen	size = 0.582	culture = savonian	religion = muinaisusko }
 	define_pop = {	type = tribesmen	size = 0.043	culture = sapmi	religion = sapmi_shamanism }
 }
-olofsborg = { #396
-	define_pop = {	type = peasants	size = 0.130	culture = savonian	religion = catholic }
-	define_pop = {	type = peasants	size = 0.112	culture = savonian	religion = orthodox }
-	define_pop = {	type = tribesmen	size = 0.105	culture = savonian	religion = muinaisusko }
-	define_pop = {	type = tribesmen	size = 0.049	culture = sapmi	religion = sapmi_shamanism }
+olofsborg = { #696
+	define_pop = {	type = peasants	size = 0.291	culture = savonian	religion = catholic }
+	define_pop = {	type = peasants	size = 0.209	culture = savonian	religion = orthodox }
+	define_pop = {	type = tribesmen	size = 0.182	culture = savonian	religion = muinaisusko }
+	define_pop = {	type = tribesmen	size = 0.014	culture = sapmi	religion = sapmi_shamanism }
 }
 heinola = { #192
 	define_pop = {	type = tribesmen	size = 0.110	culture = savonian	religion = muinaisusko }
@@ -1173,11 +1173,11 @@ idensalmi = { #69 nice
 rautavaara = { #72
 	define_pop = {	type = tribesmen	size = 0.072	culture = sapmi	religion = sapmi_shamanism }
 }
-savonranta = { #696
-	define_pop = {	type = peasants	size = 0.291	culture = savonian	religion = catholic }
-	define_pop = {	type = peasants	size = 0.209	culture = savonian	religion = orthodox }
-	define_pop = {	type = tribesmen	size = 0.182	culture = savonian	religion = muinaisusko }
-	define_pop = {	type = tribesmen	size = 0.014	culture = sapmi	religion = sapmi_shamanism }
+savonranta = { #396
+	define_pop = {	type = peasants	size = 0.130	culture = savonian	religion = catholic }
+	define_pop = {	type = peasants	size = 0.112	culture = savonian	religion = orthodox }
+	define_pop = {	type = tribesmen	size = 0.105	culture = savonian	religion = muinaisusko }
+	define_pop = {	type = tribesmen	size = 0.049	culture = sapmi	religion = sapmi_shamanism }
 }
 pihlajavesi = {
 }
@@ -2032,7 +2032,7 @@ joensuu = {
 	define_pop = {	type = tribesmen	size = 0.153	culture = sapmi	religion = sapmi_shamanism }
 }
 sordavala = { #1 371
-	define_pop = {	type = clergy	size = 0.014	culture = novgorodian	religion = orthodox }
+	define_pop = {	type = clergy	size = 0.024	culture = novgorodian	religion = orthodox }
 	define_pop = {	type = peasants	size = 0.670	culture = karelian	religion = orthodox }
 	define_pop = {	type = tribesmen	size = 0.687	culture = karelian	religion = muinaisusko }
 }
@@ -3145,7 +3145,7 @@ lubeck = {
 	define_pop = {	type = clergy	size = 0.162	culture = holsatian	religion = catholic }
 	define_pop = {	type = burghers	size = 3.178	culture = holsatian	religion = catholic }
 	define_pop = {	type = burghers	size = 0.306	culture = polabian	religion = catholic }
-	define_pop = {	type = burghers	size = 0.109	culture = ashkenazi	religion = catholic }
+	define_pop = {	type = burghers	size = 0.109	culture = ashkenazi	religion = judaism }
 	define_pop = {	type = peasants	size = 7.576	culture = holsatian	religion = catholic }
 	define_pop = {	type = peasants	size = 4.277	culture = polabian	religion = catholic }
 	define_pop = {	type = peasants	size = 0.366	culture = ashkenazi	religion = judaism }
@@ -7363,8 +7363,6 @@ cardigan = {
 aberystwyth = {
 	define_pop = {	type = clergy	size = 0.008	culture = welsh	religion = catholic }
 	define_pop = {	type = peasants	size = 11.962	culture = welsh	religion = catholic }
-}
-dyfi_estuary = {
 }
 carnarvon = {
 	define_pop = {	type = nobles	size = 0.008	culture = english	religion = catholic }
@@ -20420,13 +20418,9 @@ iagorlic = {
 	define_pop = {	type = tribesmen	size = 2.300	culture = crimean	religion = tengri }
 	define_pop = {	type = slaves	size = 0.964	culture = moldovan	religion = orthodox }
 }
-berezan_liman = {
-}
 khadzhibey_liman = {
 }
 kuialnyk_liman = {
-}
-tylihul_liman = {
 }
 dashev = {
 	define_pop = {	type = clergy	size = 0.004	culture = mongolian_culture	religion = sunni }
@@ -20951,8 +20945,6 @@ berdiansk = {
 	define_pop = {	type = peasants	size = 1.205	culture = crimean	religion = tengri }
 	define_pop = {	type = tribesmen	size = 1.393	culture = crimean	religion = tengri }
 }
-molochnyi_liman = {
-}
 taganrog = {
 	define_pop = {	type = clergy	size = 0.005	culture = mongolian_culture	religion = sunni }
 	define_pop = {	type = peasants	size = 0.925	culture = crimean	religion = sunni }
@@ -20988,8 +20980,6 @@ vasylivka = {
 	define_pop = {	type = peasants	size = 0.536	culture = crimean	religion = sunni }
 	define_pop = {	type = peasants	size = 1.238	culture = crimean	religion = tengri }
 	define_pop = {	type = tribesmen	size = 1.801	culture = crimean	religion = tengri }
-}
-mius_liman = {
 }
 bakhmut = {
 	define_pop = {	type = clergy	size = 0.009	culture = mongolian_culture	religion = sunni }
@@ -24033,8 +24023,8 @@ moloskovitsa = {
 	define_pop = {	type = peasants	size = 2.577	culture = novgorodian	religion = orthodox }
 }
 soikino = {
-	define_pop = {	type = peasants	size = 0.496	culture = votian	religion = orthodox }
-	define_pop = {	type = peasants	size = 0.497	culture = novgorodian	religion = orthodox }
+	define_pop = {	type = peasants	size = 0.497	culture = votian	religion = orthodox }
+	define_pop = {	type = peasants	size = 0.496	culture = novgorodian	religion = orthodox }
 	define_pop = {	type = tribesmen	size = 2.009	culture = votian	religion = votian_religion }
 }
 tesov = {

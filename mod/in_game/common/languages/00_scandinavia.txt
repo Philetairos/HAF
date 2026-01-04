@@ -242,7 +242,7 @@ finnish_language = {
 	color = map_finnish
 
 	family = uralic_language_family
-
+	
 	#TODO:
 	#Only common baltic finnic names here, rest of the names are split by dialect
 	male_names = {
@@ -342,8 +342,8 @@ finnish_language = {
 	} 
 	lowborn = {
 		Rova Suensaari Tammpere Nieminen Hannus Jaakkola Ilkka Akseli Haapa
-		Lahtinen Sepp  Laine jarvinen Anttonen	Karpela	sarkilahti	Karp Lepo
-		sydanmaa makela Koskinen Lankinen Bottii	Lonooen	Markonen
+		Lahtinen Sepp  Laine jarvinen Anttonen Karpela sarkilahti Karp Lepo
+		sydanmaa makela Koskinen Lankinen Bottii Lonooen Markonen
 	}
 	patronym_suffix_son = "patronym_suffix_finnish_son"
 	patronym_suffix_daughter = "patronym_suffix_finnish_daughter"
@@ -362,13 +362,13 @@ finnish_language = {
 
 		}
 		votic_dialect = {
-
+		
 		}
 		estonian_dialect = {
 
 		}
 		bjarmian_dialect = {
-
+		
 		}
 	}
 }
@@ -381,59 +381,59 @@ sami_language = {
 	family = uralic_language_family
 	
 	male_names = {
-		name_abel
-        abrran
-        ado
-        aggi
-        Ahkebeaivi
-        Ahkejuoksa
-        Ahkemiella
-		aibmu
-		banccu
-		coavva
-		deahppan
-		eidnar
-		Fretterat
-		gaivvas
-		Heandarak
-		iigga
-		jahko
-		klemma
-		lavrrahas
-		maidnu
-		nihkolavo
-		Orddot
-		Reaidnu
-		sarrajuoksa
-		Uhkku
-		Vilhealbma
-	}
-	female_names = {
-		alehtta
-		buohtta
-		cuvje
-		Diinna
-		Gearte
-		Helbme
-		juoksahkka
-		Kearte
-		Leandu
-		mavnnel
-		nienna
-		Oggi
-		Ruhte
-		sealgga
-		tua
-		uksahkka
-		Vuohkku
-	}
-	#Randomly made some of them dynasty names
-	dynasty_names = {
-		Aikasarri Sarre Juvak Moskuvaara
-	}
-	lowborn = {
-		 Aikio Aike Mujo Namalikko Saijets Satta Torrio Riimi Junkka Jaukka Mokko Sarri Kierinki Rautus Sieppi Magga Valle
-	}
+ 		name_abel
+         abrran
+         ado
+         aggi
+         Ahkebeaivi
+         Ahkejuoksa
+         Ahkemiella
+ 		aibmu
+ 		banccu
+ 		coavva
+ 		deahppan
+ 		eidnar
+ 		Fretterat
+ 		gaivvas
+ 		Heandarak
+ 		iigga
+ 		jahko
+ 		klemma
+ 		lavrrahas
+ 		maidnu
+ 		nihkolavo
+ 		Orddot
+ 		Reaidnu
+ 		sarrajuoksa
+ 		Uhkku
+ 		Vilhealbma
+ 	}
+ 	female_names = {
+ 		alehtta
+ 		buohtta
+ 		cuvje
+ 		Diinna
+ 		Gearte
+ 		Helbme
+ 		juoksahkka
+ 		Kearte
+ 		Leandu
+ 		mavnnel
+ 		nienna
+ 		Oggi
+ 		Ruhte
+ 		sealgga
+ 		tua
+ 		uksahkka
+ 		Vuohkku
+ 	}
+ 	#Randomly made some of them dynasty names
+ 	dynasty_names = {
+ 		Aikasarri Sarre Juvak Moskuvaara
+ 	}
+ 	lowborn = {
+ 		 Aikio Aike Mujo Namalikko Saijets Satta Torrio Riimi Junkka Jaukka Mokko Sarri Kierinki Rautus Sieppi Magga Valle
+ 	}
 
 	fallback = finnish_language #fallback to finnish for any names that don't exist
 }
