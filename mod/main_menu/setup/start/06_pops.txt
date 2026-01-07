@@ -985,10 +985,11 @@ vora = { #1094
 abo = { #14 120
 	define_pop = {	type = nobles	size = 0.011	culture = swedish	religion = catholic }
 	define_pop = {	type = clergy	size = 0.086	culture = swedish	religion = catholic }
-	define_pop = {	type = burghers	size = 0.774	culture = swedish	religion = catholic }
+	define_pop = {	type = burghers	size = 0.211	culture = swedish	religion = catholic }
+	define_pop = {	type = burghers	size = 0.120	culture = finnish	religion = catholic }
 	define_pop = {	type = peasants	size = 3.667	culture = swedish	religion = catholic }
 	define_pop = {	type = peasants	size = 9.251	culture = finnish	religion = catholic }
-	define_pop = {	type = burghers	size = 0.331	culture = holsatian	religion = catholic }
+	define_pop = {	type = burghers	size = 0.774	culture = holsatian	religion = catholic }
 }
 nystad = { #9 782
 	define_pop = {	type = clergy	size = 0.008	culture = swedish	religion = catholic }
@@ -1018,7 +1019,8 @@ ekenas = { #5 895
 sjundea = { #4 938
 	define_pop = {	type = clergy	size = 0.008	culture = swedish	religion = catholic }
 	define_pop = {	type = peasants	size = 1.254	culture = swedish	religion = catholic }
-	define_pop = {	type = peasants	size = 3.676	culture = tavastian	religion = catholic }
+	define_pop = {	type = peasants	size = 2.543	culture = finnish	religion = catholic }
+	define_pop = {	type = peasants	size = 1.133	culture = tavastian	religion = catholic }
 }
 porvoo = { #3 939
 	define_pop = {	type = clergy	size = 0.009	culture = tavastian	religion = catholic }
@@ -1057,8 +1059,8 @@ sastmola = { #1988
 }
 birkala = {#1608
 	define_pop = {	type = clergy	size = 0.009	culture = tavastian	religion = catholic }
-	define_pop = {	type = peasants	size = 1.355	culture = tavastian	religion = catholic }
-	define_pop = {	type = tribesmen	size = 0.244	culture = tavastian	religion = muinaisusko }
+	define_pop = {	type = peasants	size = 1.255	culture = tavastian	religion = catholic }
+	define_pop = {	type = tribesmen	size = 0.344	culture = tavastian	religion = muinaisusko }
 }
 sastamala = {#2282
 	define_pop = {	type = clergy	size = 0.009	culture = tavastian	religion = catholic }
@@ -1078,8 +1080,7 @@ hollola = { #2 083
 }
 lohja = { #2930
 	define_pop = {	type = clergy	size = 0.008	culture = swedish	religion = catholic }
-	define_pop = {	type = peasants	size = 1.061	culture = tavastian	religion = catholic }
-	define_pop = {	type = peasants	size = 1.650	culture = finnish	religion = catholic }
+	define_pop = {	type = peasants	size = 2.711	culture = tavastian	religion = catholic }
 	define_pop = {	type = peasants	size = 0.211	culture = swedish	religion = catholic }
 }
 tavastehus = { #2 988
@@ -1194,7 +1195,8 @@ kymi_fi = { #1 986
 }
 vyborg = { #5389
 	define_pop = {	type = clergy	size = 0.009	culture = swedish	religion = catholic }
-	define_pop = {	type = burghers	size = 0.131	culture = holsatian	religion = catholic }
+	define_pop = {	type = burghers	size = 0.030	culture = swedish	religion = catholic }
+	define_pop = {	type = burghers	size = 0.101	culture = holsatian	religion = catholic }
 	define_pop = {	type = peasants	size = 2.787	culture = karelian	religion = catholic }
 	define_pop = {	type = peasants	size = 1.572	culture = karelian	religion = orthodox }
 	define_pop = {	type = peasants	size = 0.129	culture = swedish	religion = catholic }
@@ -1202,15 +1204,15 @@ vyborg = { #5389
 } 
 villmanstrand = { #1531
 	define_pop = {	type = clergy	size = 0.009	culture = swedish	religion = catholic }
-	define_pop = {	type = peasants	size = 0.647	culture = karelian	religion = catholic }
-	define_pop = {	type = peasants	size = 0.521	culture = karelian	religion = orthodox }
-	define_pop = {	type = tribesmen	size = 0.354	culture = karelian	religion = catholic }
+	define_pop = {	type = peasants	size = 0.847	culture = karelian	religion = catholic }
+	define_pop = {	type = peasants	size = 0.421	culture = karelian	religion = orthodox }
+	define_pop = {	type = tribesmen	size = 0.254	culture = karelian	religion = orthodox }
 }
 veckelax = { #1603
 	define_pop = {	type = clergy	size = 0.008	culture = swedish	religion = catholic }
 	define_pop = {	type = peasants	size = 1.039	culture = karelian	religion = catholic }
 	define_pop = {	type = peasants	size = 0.182	culture = swedish	religion = catholic }
-	define_pop = {	type = tribesmen	size = 0.374	culture = karelian	religion = catholic }
+	define_pop = {	type = tribesmen	size = 0.374	culture = karelian	religion = orthodox }
 }
 elimaki = { #816
 	define_pop = {	type = tribesmen	size = 0.215	culture = karelian	religion = catholic }
@@ -1220,8 +1222,8 @@ vederlax = { #1307
 	define_pop = {	type = clergy	size = 0.008	culture = swedish	religion = catholic }
 	define_pop = {	type = peasants	size = 0.612	culture = karelian	religion = catholic }
 	define_pop = {	type = peasants	size = 0.330	culture = karelian	religion = orthodox }
-	define_pop = {	type = peasants	size = 0.124	culture = swedish	religion = orthodox }
-	define_pop = {	type = tribesmen	size = 0.233	culture = karelian	religion = catholic }
+	define_pop = {	type = peasants	size = 0.124	culture = swedish	religion = catholic }
+	define_pop = {	type = tribesmen	size = 0.233	culture = karelian	religion = orthodox }
 }
 valkeasaari = { #987
 	define_pop = {	type = clergy	size = 0.008	culture = swedish	religion = catholic }
@@ -2013,7 +2015,7 @@ korela = { #2 775
 	define_pop = {	type = clergy	size = 0.012	culture = novgorodian	religion = orthodox }
 	define_pop = {	type = peasants	size = 1.719	culture = karelian	religion = orthodox }
 	define_pop = {	type = peasants	size = 0.047	culture = novgorodian	religion = orthodox }
-	define_pop = {	type = tribesmen	size = 0.778	culture = karelian	religion = muinaisusko }
+	define_pop = {	type = tribesmen	size = 0.778	culture = karelian	religion = orthodox }
 	define_pop = {	type = tribesmen	size = 0.219	culture = karelian	religion = muinaisusko }
 }
 kurkijoki = { #1 125
@@ -24074,6 +24076,7 @@ village_onega = {
 }
 luda = {
 	define_pop = {	type = peasants	size = 1.000	culture = pomor	religion = orthodox }
+	define_pop = {	type = peasants	size = 0.162	culture = bjarmian	religion = orthodox }
 }
 malye_oserki = {
 	define_pop = {	type = clergy	size = 0.006	culture = pomor	religion = orthodox }

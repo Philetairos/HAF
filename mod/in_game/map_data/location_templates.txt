@@ -245,7 +245,7 @@ poytis = { topography = flatland vegetation = forest climate = arctic religion =
 sauvo = { topography = flatland vegetation = forest climate = continental religion = catholic culture = swedish raw_material = millet natural_harbor_suitability = 0.50}
 helsinge = { topography = flatland vegetation = woods climate = continental religion = catholic culture = swedish raw_material = livestock natural_harbor_suitability = 0.75}
 ekenas = { topography = flatland vegetation = forest climate = continental religion = catholic culture = swedish raw_material = fish natural_harbor_suitability = 0.75}
-sjundea = { topography = flatland vegetation = forest climate = continental religion = catholic culture = swedish raw_material = lumber natural_harbor_suitability = 0.00}
+sjundea = { topography = flatland vegetation = forest climate = continental religion = catholic culture = swedish raw_material = lumber natural_harbor_suitability = 0.25}
 porvoo = { topography = flatland vegetation = woods climate = continental religion = catholic culture = finnish raw_material = millet natural_harbor_suitability = 0.25}
 liljendal = { topography = flatland vegetation = woods climate = arctic religion = catholic culture = tavastian raw_material = lumber}
 ikalis = { topography = wetlands vegetation = forest climate = arctic religion = catholic culture = swedish raw_material = lumber}

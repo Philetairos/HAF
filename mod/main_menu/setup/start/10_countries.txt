@@ -649,18 +649,6 @@ countries = {
 		# }
 	# }
 	
-	SVO = { 
-		our_cores_conquered_by_others = {
-			mikkeli olofsborg heinola ristiina joroinen savonranta
-		}
-		capital = mikkeli
- 
-		include = "catholic_monarchy_not_present"
-		include = "expl_scandinavia"
-		government = {
- 			ruler = random
- 		}
-	}
 
 	# KRL = {
 		# type = pop
@@ -740,6 +728,22 @@ countries = {
 			# ruler = random
 		# }
 	# }
+	BJA = {
+		our_cores_conquered_by_others = {
+			kholmogory arkhangelsk pomorye ust_pinega vaymuga brin_navolok siya kuloy
+			verkhnyaya_zolotitsa koyda pinega okladnikova_sloboda khimzha leshukonskoye
+			zanyukhcha verkola shardonem pokshenga chakola ust_chulasa koptyuga
+			chirki village_onega luda malye_oserki nyonoksa priluky verkhnyaya_toyma
+			malaya_ilesha vyya nizhnyaya_toyma sogra ust_vayenga yemetsk
+		}
+		capital = kholmogory
+ 
+		include = "russian_principality_no_coast_not_present"
+		include = "expl_novgorod"
+		government = {
+ 			ruler = random
+ 		}
+ 	}
 
 	TEU = { #Teutonic Order
 		own_control_core = {
