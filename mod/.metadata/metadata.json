@@ -6,6 +6,5 @@
 	"short_description":	"Historically accurate Finland",
 	"tags":	["Fixes", "Historical", "Map"],
 	"relationships":	[],
-	"game_custom_data":	{
-}
+	"game_custom_data":	{}
 }
