@@ -11537,7 +11537,10 @@ ventspils = {
 	feudalism = yes
 	legalism = yes
 }
-
+saka = {
+	feudalism = yes
+	legalism = yes
+}
 tallinn = {
 	feudalism = yes
 	legalism = yes
