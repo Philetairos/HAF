@@ -41,16 +41,16 @@ countries = {
 
 			umea lulea
 
-			abo poytis sauvo nystad ekenas lohja korsholm 
+			abo poytis sauvo nystad ekenas lohja korsholm sjundea pedersore
 			 
 		}
 		
 		own_control_integrated = { 
-			helsinge sjundea porvoo kymi_fi vyborg villmanstrand veckelax vederlax beryozovskoye ikalis raumo bjorneborg
+			helsinge porvoo kymi_fi vyborg villmanstrand veckelax vederlax beryozovskoye ikalis raumo bjorneborg
 			hvittis sastmola birkala sastamala koppo hollola tavastehus janakkala forssa liljendal jamsa valkeasaari kyyrola
 			#ADDED
 			heinjoki jaskis ristiina mikkeli joroinen
-			storkyro pedersore vora karleby
+			storkyro vora karleby
 			kiemi brahestad tornea kuivaniemi sysma
 			#Unsure
 			#uleaborg simo itis elimaki
@@ -616,11 +616,14 @@ countries = {
 		}
 		capital = tavastehus
  
-		include = "catholic_monarchy_not_present"
 		include = "expl_scandinavia"
+		include = "eurasian_tribe"
+		starting_technology_level = 0
 		government = {
- 			ruler = random
- 		}
+			type = tribe
+			heir_selection = tribal_oldest_male
+			ruler = random
+		}
 	}
 
 	# SVO = {
@@ -690,12 +693,18 @@ countries = {
 			elimaki olonets korela kurkijoki konevets joensuu sordavala vartsila ilomantsi salmi loimola kinerma
 		}
 		capital = korela
- 
-		include = "russian_principality_no_coast_not_present"
-		include = "expl_novgorod"
+		
+		starting_technology_level = 0
+		country_rank = rank_county
+		
 		government = {
- 			ruler = random
- 		}
+			type = tribe
+			heir_selection = tribal_oldest_male
+			ruler = random
+		}
+ 
+		include = "eurasian_tribe"
+		include = "expl_novgorod"
  	}
 	# BJA = {
 		# type = pop
@@ -737,12 +746,18 @@ countries = {
 			malaya_ilesha vyya nizhnyaya_toyma sogra ust_vayenga yemetsk
 		}
 		capital = kholmogory
- 
-		include = "russian_principality_no_coast_not_present"
-		include = "expl_novgorod"
+		
+		starting_technology_level = 0
+		country_rank = rank_county
+
 		government = {
- 			ruler = random
- 		}
+			type = tribe
+			heir_selection = tribal_oldest_male
+			ruler = random
+		}
+ 
+		include = "eurasian_tribe"
+		include = "expl_novgorod"
  	}
 
 	TEU = { #Teutonic Order
@@ -2048,7 +2063,7 @@ countries = {
 	#Novgorod
 	NOV = {
 		own_control_core = {
-			soikino yama burga khotsy kulotino megrino moloskovitsa khotchino lisino lyady mezhutka
+			burga khotsy kulotino megrino moloskovitsa khotchino lisino lyady mezhutka
 			novgorod golino staropolye staraya_russa chudovo kosichkoj zaplyusye kresttsy yazhelbitsy berezovets nebolchi
 			kholm velikiye_luki demon soltsy nalyuchi dolchinyo vlitsy sumino
 			tikhvin lipno_nov borovichi pikalyovo soltsy_kirishi maselga spirkovo lyubytino
@@ -2063,7 +2078,7 @@ countries = {
 			ilyinsko_podomskoye ust_vayenga
 			porkhov plyussa dubronjo spas_na_kholmu
 			rzheva_pustaya ashevo bezhanitsy podberezye visokoye kuretsk lyakhovichy maryovo lyubno svinort gorodets_luga izori tesov
-			bronnitsa gruzino veliky_porog valday pribuzh ivangorod izboishchi pashozero tervenichi megra voznesenye andomsky_pogost
+			bronnitsa gruzino veliky_porog valday pribuzh izboishchi pashozero tervenichi megra voznesenye andomsky_pogost
 			vodlozero shalskii kizhi rakitnya mikshino bernovo yezsk lyuban
 			#Principality of Volokolansk
 			volok
@@ -2073,6 +2088,9 @@ countries = {
 			
 			#unsure:
 			#vazhiny shyoltozero ostrechiny
+		}
+		own_control_integrated = { 
+			soikino yama ivangorod
 		}
 
 		starting_technology_level = 3

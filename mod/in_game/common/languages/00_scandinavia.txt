@@ -370,6 +370,9 @@ finnish_language = {
 		bjarmian_dialect = {
 		
 		}
+		liv_dialect = {
+		
+		}
 	}
 }
 
