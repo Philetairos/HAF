@@ -835,7 +835,7 @@ countries = {
 			rezekne daugavpils selpils kraslava jelgava  tukums
 			saarde suure_jaani makonkalns aizkraukle salaspils  saldus
 			paide
-			ventspils grobina kuldiga durbe
+			ventspils grobina kuldiga
 		}
 		
 		include = "catholic_military_order"
@@ -1095,7 +1095,7 @@ countries = {
 		}
 
 		own_control_integrated = {
-			dundaga piltene
+			dundaga piltene saka durbe
 		}
 
 		include = "catholic_bishopric"

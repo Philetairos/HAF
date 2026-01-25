@@ -3598,14 +3598,15 @@ giurgiu = { topography = flatland vegetation = grasslands climate = continental 
 rusii_de_vede = { topography = flatland vegetation = woods climate = continental religion = orthodox culture = wallachian raw_material = legumes}
 slatina = { topography = flatland vegetation = woods climate = continental religion = orthodox culture = wallachian raw_material = livestock}
 zimnicea = { topography = flatland vegetation = farmland climate = continental religion = orthodox culture = wallachian raw_material = wheat}
-kuldiga = { topography = flatland vegetation = woods climate = continental religion = catholic culture = curonian raw_material = lumber}
-dundaga = { topography = flatland vegetation = forest climate = continental religion = catholic culture = liv raw_material = amber natural_harbor_suitability = 0.00}
-durbe = { topography = flatland vegetation = woods climate = continental religion = catholic culture = curonian raw_material = fiber_crops natural_harbor_suitability = 0.00}
-grobina = { topography = wetlands vegetation = woods climate = continental religion = catholic culture = curonian raw_material = fish natural_harbor_suitability = 0.00}
-kandava = { topography = flatland vegetation = forest climate = continental religion = catholic culture = liv raw_material = millet natural_harbor_suitability = 0.00}
-piltene = { topography = flatland vegetation = forest climate = continental religion = catholic culture = curonian raw_material = clay}
+kuldiga = { topography = flatland vegetation = woods climate = continental religion = catholic culture = curonian raw_material = lumber natural_harbor_suitability = 0.00 }
+dundaga = { topography = flatland vegetation = forest climate = continental religion = catholic culture = liv raw_material = amber natural_harbor_suitability = 0.00 }
+durbe = { topography = flatland vegetation = woods climate = continental religion = catholic culture = curonian raw_material = fiber_crops }
+grobina = { topography = wetlands vegetation = woods climate = continental religion = catholic culture = curonian raw_material = fish natural_harbor_suitability = 0.25 }
+saka = { topography = flatland vegetation = forest climate = continental religion = catholic culture = curonian raw_material = fish natural_harbor_suitability = 0.10 }
+kandava = { topography = flatland vegetation = forest climate = continental religion = catholic culture = liv raw_material = millet natural_harbor_suitability = 0.00 }
+piltene = { topography = flatland vegetation = forest climate = continental religion = catholic culture = curonian raw_material = clay }
 saldus = { topography = flatland vegetation = woods climate = continental religion = catholic culture = curonian raw_material = wild_game}
-ventspils = { topography = wetlands vegetation = grasslands climate = continental religion = catholic culture = curonian raw_material = salt natural_harbor_suitability = 0.00}
+ventspils = { topography = wetlands vegetation = grasslands climate = continental religion = catholic culture = curonian raw_material = salt natural_harbor_suitability = 0.25 }
 tallinn = { topography = flatland vegetation = grasslands climate = continental religion = catholic culture = estonian raw_material = stone natural_harbor_suitability = 0.50}
 narva = { topography = flatland vegetation = woods climate = continental religion = catholic culture = estonian raw_material = fish natural_harbor_suitability = 0.50}
 padise = { topography = flatland vegetation = woods climate = continental religion = catholic culture = estonian raw_material = fiber_crops natural_harbor_suitability = 0.00}

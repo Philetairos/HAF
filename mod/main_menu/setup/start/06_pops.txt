@@ -16330,49 +16330,56 @@ zimnicea = {
 	define_pop = {	type = peasants	size = 1.322	culture = bulgarian	religion = orthodox }
 }
 kuldiga = {
-	define_pop = {	type = nobles	size = 0.007	culture = german_baltic	religion = catholic }
-	define_pop = {	type = clergy	size = 0.014	culture = german_baltic	religion = catholic }
-	define_pop = {	type = peasants	size = 1.497	culture = curonian	religion = romuva }
-	define_pop = {	type = peasants	size = 0.373	culture = german_baltic	religion = catholic }
-	define_pop = {	type = tribesmen	size = 1.823	culture = curonian	religion = romuva }
+ 	define_pop = {	type = nobles	size = 0.007	culture = german_baltic	religion = catholic }
+ 	define_pop = {	type = clergy	size = 0.014	culture = german_baltic	religion = catholic }
+	define_pop = {	type = peasants	size = 1.497	culture = curonian	religion = catholic }
+ 	define_pop = {	type = peasants	size = 0.373	culture = german_baltic	religion = catholic }
+ 	define_pop = {	type = tribesmen	size = 1.823	culture = curonian	religion = romuva }
 }
 dundaga = {
 	define_pop = {	type = peasants	size = 1.964	culture = liv	religion = catholic }
 	define_pop = {	type = peasants	size = 1.607	culture = curonian	religion = catholic }
+	define_pop = {	type = peasants	size = 0.080	culture = swedish	religion = catholic }
 }
 durbe = {
-	define_pop = {	type = peasants	size = 1.192	culture = curonian	religion = romuva }
-	define_pop = {	type = peasants	size = 0.336	culture = german_baltic	religion = catholic }
-	define_pop = {	type = tribesmen	size = 1.800	culture = curonian	religion = romuva }
+	define_pop = {	type = peasants	size = 1.192	culture = curonian	religion = catholic }
+ 	define_pop = {	type = peasants	size = 0.336	culture = german_baltic	religion = catholic }
+ 	define_pop = {	type = tribesmen	size = 1.800	culture = curonian	religion = romuva }
 }
 grobina = {
-	define_pop = {	type = clergy	size = 0.028	culture = german_baltic	religion = catholic }
-	define_pop = {	type = peasants	size = 0.830	culture = liv	religion = catholic }
-	define_pop = {	type = peasants	size = 2.149	culture = curonian	religion = romuva }
-	define_pop = {	type = peasants	size = 0.830	culture = german_baltic	religion = catholic }
-	define_pop = {	type = tribesmen	size = 4.570	culture = curonian	religion = romuva }
+ 	define_pop = {	type = clergy	size = 0.028	culture = german_baltic	religion = catholic }
+	define_pop = {	type = peasants	size = 2.149	culture = curonian	religion = catholic }
+ 	define_pop = {	type = peasants	size = 0.830	culture = german_baltic	religion = catholic }
+ 	define_pop = {	type = tribesmen	size = 4.570	culture = curonian	religion = romuva }
 }
 kandava = {
-	define_pop = {	type = peasants	size = 3.461	culture = liv	religion = catholic }
-	define_pop = {	type = peasants	size = 2.831	culture = curonian	religion = catholic }
+ 	define_pop = {	type = peasants	size = 3.461	culture = liv	religion = catholic }
+ 	define_pop = {	type = peasants	size = 2.831	culture = curonian	religion = catholic }
 }
 piltene = {
-	define_pop = {	type = clergy	size = 0.006	culture = german_baltic	religion = catholic }
-	define_pop = {	type = peasants	size = 1.618	culture = curonian	religion = catholic }
-	define_pop = {	type = peasants	size = 0.179	culture = german_baltic	religion = catholic }
+ 	define_pop = {	type = clergy	size = 0.006	culture = german_baltic	religion = catholic }
+ 	define_pop = {	type = peasants	size = 1.618	culture = curonian	religion = catholic }
+	define_pop = {	type = peasants	size = 0.283	culture = liv	religion = catholic }
+ 	define_pop = {	type = peasants	size = 0.179	culture = german_baltic	religion = catholic }
 }
 saldus = {
-	define_pop = {	type = clergy	size = 0.057	culture = german_baltic	religion = catholic }
-	define_pop = {	type = peasants	size = 0.353	culture = curonian	religion = catholic }
-	define_pop = {	type = peasants	size = 2.860	culture = latvian	religion = catholic }
-	define_pop = {	type = peasants	size = 0.353	culture = german_baltic	religion = catholic }
+ 	define_pop = {	type = clergy	size = 0.057	culture = german_baltic	religion = catholic }
+ 	define_pop = {	type = peasants	size = 0.353	culture = curonian	religion = catholic }
+ 	define_pop = {	type = peasants	size = 2.860	culture = latvian	religion = catholic }
+ 	define_pop = {	type = peasants	size = 0.353	culture = german_baltic	religion = catholic }
 }
 ventspils = {
-	define_pop = {	type = clergy	size = 0.004	culture = german_baltic	religion = catholic }
-	define_pop = {	type = peasants	size = 0.174	culture = liv	religion = catholic }
-	define_pop = {	type = peasants	size = 0.666	culture = curonian	religion = romuva }
-	define_pop = {	type = peasants	size = 0.174	culture = german_baltic	religion = catholic }
-	define_pop = {	type = tribesmen	size = 0.741	culture = curonian	religion = romuva }
+ 	define_pop = {	type = clergy	size = 0.004	culture = german_baltic	religion = catholic }
+	define_pop = {	type = peasants	size = 0.367	culture = liv	religion = catholic }
+	define_pop = {	type = peasants	size = 0.666	culture = curonian	religion = catholic }
+ 	define_pop = {	type = peasants	size = 0.174	culture = german_baltic	religion = catholic }
+ 	define_pop = {	type = tribesmen	size = 0.741	culture = curonian	religion = romuva }
+}
+saka = {
+	define_pop = {	type = clergy	size = 0.003	culture = german_baltic	religion = catholic }
+	define_pop = {	type = peasants	size = 0.158	culture = german_baltic	religion = catholic }
+	define_pop = {	type = peasants	size = 0.695	culture = curonian	religion = catholic }
+	define_pop = {	type = tribesmen	size = 0.343	culture = curonian	religion = romuva }
 }
 tallinn = {
 	define_pop = {	type = nobles	size = 0.006	culture = danish	religion = catholic }
