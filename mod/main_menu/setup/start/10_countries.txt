@@ -2073,9 +2073,7 @@ countries = {
 			ramenki mednoye vyshny_volochyok bologoye zhabny torzhok kuvshinovo ostashkov
 			volosovskaya kargopol konyovo navolok shalakusha ves_yogonskaya vologda arkhangelskoye_vologda ustye
 			vozhega tavrenga tarnogsky_gorodok totma kubenskoye ust_kuloy shenga_kurya
-			verkhovazhye velsk rovdino vaga bereznik sogra nizhnyaya_toyma verkhnyaya_toyma
-			uftyuga koryazhma yarensk
-			ilyinsko_podomskoye ust_vayenga
+			verkhovazhye velsk rovdino vaga bereznik sogra nizhnyaya_toyma verkhnyaya_toyma ust_vayenga
 			porkhov plyussa dubronjo spas_na_kholmu
 			rzheva_pustaya ashevo bezhanitsy podberezye visokoye kuretsk lyakhovichy maryovo lyubno svinort gorodets_luga izori tesov
 			bronnitsa gruzino veliky_porog valday pribuzh izboishchi pashozero tervenichi megra voznesenye andomsky_pogost
@@ -2090,7 +2088,8 @@ countries = {
 			#vazhiny shyoltozero ostrechiny
 		}
 		own_control_integrated = { 
-			soikino yama ivangorod
+			soikino yama ivangorod uftyuga koryazhma yarensk
+			ilyinsko_podomskoye
 		}
 
 		starting_technology_level = 3
