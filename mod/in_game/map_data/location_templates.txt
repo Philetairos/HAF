@@ -448,7 +448,7 @@ lake_syamozero = { topography = lakes climate = arctic}
 lake_vedlozero = { topography = lakes climate = arctic}
 repola = { topography = wetlands vegetation = forest climate = arctic religion = sapmi_shamanism culture = sapmi raw_material = fur}
 karhumagi = { topography = flatland vegetation = forest climate = arctic religion = orthodox culture = karelian raw_material = copper}
-kizhi = { topography = flatland vegetation = forest climate = arctic religion = orthodox culture = karelian raw_material = fish}
+kizhi = { topography = flatland vegetation = forest climate = arctic religion = orthodox culture = karelian raw_material = iron}
 lindjarvi = { topography = wetlands vegetation = forest climate = arctic religion = orthodox culture = karelian raw_material = medicaments}
 nadvoitsy = { topography = flatland vegetation = forest climate = arctic religion = orthodox culture = sapmi raw_material = wild_game}
 pieninka = { topography = wetlands vegetation = forest climate = arctic religion = sapmi_shamanism culture = sapmi raw_material = wild_game}
