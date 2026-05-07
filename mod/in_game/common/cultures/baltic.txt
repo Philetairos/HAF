@@ -97,8 +97,8 @@ liv = {  #Finnic https://en.wikipedia.org/wiki/Livonians
 	}
 	
 	culture_groups = {
-		baltic_group
 		finnic_group
+		baltic_group
 	}
 }
 
