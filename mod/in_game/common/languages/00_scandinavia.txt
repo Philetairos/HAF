@@ -45,7 +45,7 @@
 		name_ingrid
 		Karin #swedish version for name_catherine
 		Marta #scandinavian version of name_martha
-		Ragnhild #scandinavian version of name_reinhild
+		name_ragnhild #scandinavian version of name_reinhild
 	}
 
 	patronym_suffix_son = "patronym_suffix_swedish_son"
@@ -108,7 +108,7 @@
 				name_ingrid
 				Karin #swedish version for name_catherine
 				Marta #scandinavian version of name_martha
-				Ragnhild #scandinavian version of name_reinhild
+				name_ragnhild #scandinavian version of name_reinhild
 
 				#from dialect
 				name_walburga
@@ -171,7 +171,7 @@
 				name_ingrid
 				Karin #swedish version for name_catherine
 				Marta #scandinavian version of name_martha
-				Ragnhild #scandinavian version of name_reinhild
+				name_ragnhild #scandinavian version of name_reinhild
 
 				#from dialect
 				name_ada
@@ -245,7 +245,7 @@ finnish_language = {
 	color = map_finnish
 
 	family = uralic_language_family
-	
+
 	#TODO:
 	#Only common baltic finnic names here, rest of the names are split by dialect
 
@@ -346,7 +346,7 @@ finnish_language = {
 	} 
 	lowborn = {
 		Rova Suensaari Tammpere Nieminen Hannus Jaakkola Ilkka Akseli Haapa
-		Lahtinen Sepp  Laine jarvinen Anttonen Karpela sarkilahti Karp Lepo
+		Lahtinen Sepp  Laine jarvinen Anttonen Karpela sarkilahti name_karp Lepo
 		sydanmaa makela Koskinen Lankinen Bottii Lonooen Markonen
 	}
 	patronym_suffix_son = "patronym_suffix_finnish_son"
@@ -364,7 +364,7 @@ finnish_language = {
 		}
 		veps_dialect = {
 
-		}
+ 		}
 		votic_dialect = {
 		
  		}
@@ -386,7 +386,7 @@ sami_language = {
 
 	color = map_sapmi
 	family = uralic_language_family
-	
+
 	male_names = {
 		name_abel
 		abrran

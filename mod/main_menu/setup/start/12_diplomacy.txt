@@ -42,7 +42,6 @@ diplomacy_manager = {
     dependency = { first = TYR second = KEE subject_type = vassal }
     dependency = { first = LEI second = OSS subject_type = vassal }
     dependency = { first = MCM second = BEA subject_type = vassal }
-    dependency = { first = SER second = SMC subject_type = vassal start_date = 1330.1.1 }
 
     scripted_mutual = { first = THO second = CWM type = alliance }
     scripted_mutual = { first = MYO second = UMH type = alliance }
@@ -50,7 +49,7 @@ diplomacy_manager = {
     # Scandinavia
 
     dependency = { first = SWE second = SKE subject_type = fiefdom }
-	dependency = { first = SWE second = KVE subject_type = tributary }
+    dependency = { first = SWE second = KVE subject_type = tributary }
     dependency = { first = NOR second = ICE subject_type = dominion }
     dependency = { first = NOR second = GRL subject_type = dominion }
     dependency = { first = NOR second = ORK subject_type = vassal }
@@ -95,7 +94,7 @@ diplomacy_manager = {
     dependency = { first = NOV second = KZY subject_type = tributary }
     dependency = { first = NOV second = LYA subject_type = tributary }
     dependency = { first = NOV second = TBY subject_type = tributary }
-	dependency = { first = NOV second = PRM subject_type = vassal }
+    dependency = { first = NOV second = PRM subject_type = vassal }
 
     dependency = { first = GEN second = GAZ subject_type = vassal }
 
