@@ -287,12 +287,12 @@ puula = { topography = lakes climate = arctic}
 kyyvesi = { topography = lakes climate = arctic}
 kymi_fi = { topography = flatland vegetation = woods climate = continental religion = catholic culture = finnish raw_material = horses natural_harbor_suitability = 0.25}
 vyborg = { topography = flatland vegetation = woods climate = continental religion = orthodox culture = karelian raw_material = livestock natural_harbor_suitability = 0.75}
-villmanstrand = { topography = wetlands vegetation = woods climate = arctic religion = catholic culture = finnish raw_material = fish}
+villmanstrand = { topography = wetlands vegetation = woods climate = arctic religion = catholic culture = finnish raw_material = lumber}
 veckelax = { topography = flatland vegetation = woods climate = continental religion = catholic culture = finnish raw_material = millet natural_harbor_suitability = 0.25}
 elimaki = { topography = flatland vegetation = forest climate = arctic religion = catholic culture = finnish raw_material = wild_game}
-vederlax = { topography = flatland vegetation = woods climate = continental religion = catholic culture = finnish raw_material = stone natural_harbor_suitability = 0.25}
+vederlax = { topography = flatland vegetation = woods climate = continental religion = catholic culture = finnish raw_material = fish natural_harbor_suitability = 0.25}
 valkeasaari = { topography = flatland vegetation = woods climate = continental religion = orthodox culture = karelian raw_material = wild_game natural_harbor_suitability = 0.00}
-kyyrola = { topography = flatland vegetation = woods climate = arctic religion = orthodox culture = karelian raw_material = horses}
+kyyrola = { topography = flatland vegetation = woods climate = arctic religion = orthodox culture = karelian raw_material = millet}
 beryozovskoye = { topography = flatland vegetation = woods climate = continental religion = orthodox culture = karelian raw_material = fish natural_harbor_suitability = 0.25}
 heinjoki = { topography = flatland vegetation = woods climate = continental religion = orthodox culture = karelian raw_material = lumber}
 jaskis = { topography = flatland vegetation = forest climate = arctic religion = orthodox culture = karelian raw_material = medicaments}
@@ -489,7 +489,7 @@ karelia_taiga1 = { topography = wetlands vegetation = forest climate = arctic}
 karelia_taiga2 = { topography = wetlands vegetation = forest climate = arctic}
 korela = { topography = wetlands vegetation = woods climate = continental religion = orthodox culture = karelian raw_material = iron}
 kurkijoki = { topography = flatland vegetation = forest climate = arctic religion = orthodox culture = karelian raw_material = fiber_crops}
-konevets = { topography = wetlands vegetation = woods climate = continental religion = orthodox culture = karelian raw_material = medicaments}
+konevets = { topography = wetlands vegetation = woods climate = continental religion = orthodox culture = karelian raw_material = horses}
 joensuu = { topography = wetlands vegetation = forest climate = arctic religion = orthodox culture = karelian raw_material = fur}
 sordavala = { topography = flatland vegetation = forest climate = arctic religion = orthodox culture = karelian raw_material = marble}
 vartsila = { topography = flatland vegetation = forest climate = arctic religion = orthodox culture = karelian raw_material = fish}
@@ -533,7 +533,7 @@ lake_yenozero = { topography = lakes climate = arctic}
 kola_taiga = { topography = wetlands vegetation = forest climate = arctic}
 lapland_taiga4 = { topography = wetlands vegetation = forest climate = arctic}
 umba = { topography = wetlands vegetation = sparse climate = arctic religion = sapmi_shamanism culture = sapmi raw_material = fur natural_harbor_suitability = 0.00}
-kantalahti = { topography = hills vegetation = forest climate = arctic religion = sapmi_shamanism culture = sapmi raw_material = pearls natural_harbor_suitability = 0.00}
+kantalahti = { topography = hills vegetation = forest climate = arctic religion = sapmi_shamanism culture = sapmi raw_material = salt natural_harbor_suitability = 0.25}
 kashkarantsy = { topography = wetlands vegetation = sparse climate = arctic religion = sapmi_shamanism culture = sapmi raw_material = wild_game natural_harbor_suitability = 0.00}
 olenitsa = { topography = wetlands vegetation = sparse climate = arctic religion = sapmi_shamanism culture = sapmi raw_material = fish natural_harbor_suitability = 0.00}
 pyalitsa = { topography = wetlands vegetation = sparse climate = arctic religion = sapmi_shamanism culture = sapmi raw_material = fish natural_harbor_suitability = 0.00}
@@ -5352,7 +5352,7 @@ nyonoksa = { topography = flatland vegetation = forest climate = arctic religion
 priluky = { topography = flatland vegetation = forest climate = arctic religion = orthodox culture = pomor raw_material = fur}
 solovetsky = { topography = flatland vegetation = sparse climate = arctic religion = orthodox culture = novgorodian raw_material = salt natural_harbor_suitability = 0.00}
 maloshuyka = { topography = flatland vegetation = forest climate = arctic religion = orthodox culture = karelian raw_material = fur natural_harbor_suitability = 0.00}
-sumsky_posad = { topography = flatland vegetation = forest climate = arctic religion = orthodox culture = karelian raw_material = livestock natural_harbor_suitability = 0.00}
+sumsky_posad = { topography = flatland vegetation = forest climate = arctic religion = orthodox culture = karelian raw_material = fish natural_harbor_suitability = 0.25}
 unezhma = { topography = flatland vegetation = forest climate = arctic religion = orthodox culture = karelian raw_material = fur natural_harbor_suitability = 0.00}
 vygozero = { topography = flatland vegetation = forest climate = arctic religion = orthodox culture = karelian raw_material = lumber}
 russian_wastelands_1 = { topography = wetlands vegetation = forest climate = arctic}

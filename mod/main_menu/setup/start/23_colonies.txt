@@ -88,22 +88,22 @@ colony_manager={
 		category = exclusive
 		reason = treaty_of_noteborg
 	}
-	#western_kola_province = {
-	#	tag = NOV
-	#	category = exclusive
-	#	reason = treaty_of_noteborg
-	#}
+	western_kola_province = {
+		tag = NOV
+		category = exclusive
+		reason = treaty_of_noteborg
+	}
 	
-	#south_kola_province = {
-	#	tag = NOV
-	#	category = exclusive
-	#	reason = treaty_of_noteborg
-	#}
+	south_kola_province = {
+		tag = NOV
+		category = exclusive
+		reason = treaty_of_noteborg
+	}
 	
-	#north_kola_province = {
-	#	tag = NOV
-	#	category = exclusive
-	#	reason = treaty_of_noteborg
-	#}
+	north_kola_province = {
+		tag = NOV
+		category = exclusive
+		reason = treaty_of_noteborg
+	}
 }
 

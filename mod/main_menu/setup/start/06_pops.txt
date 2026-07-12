@@ -1186,19 +1186,19 @@ puula = {
 }
 kyyvesi = {
 }
-kymi_fi = { #1 986
+kymi_fi = { #1 586
 	define_pop = {	type = clergy	size = 0.008	culture = swedish	religion = catholic }
-	define_pop = {	type = peasants	size = 1.355	culture = tavastian	religion = catholic }
-	define_pop = {	type = peasants	size = 0.623	culture = swedish	religion = catholic }
+	define_pop = {	type = peasants	size = 1.055	culture = tavastian	religion = catholic }
+	define_pop = {	type = peasants	size = 0.523	culture = swedish	religion = catholic }
 }
-vyborg = { #5389
+vyborg = { #2889
 	define_pop = {	type = clergy	size = 0.009	culture = swedish	religion = catholic }
 	define_pop = {	type = burghers	size = 0.030	culture = swedish	religion = catholic }
 	define_pop = {	type = burghers	size = 0.101	culture = holsatian	religion = catholic }
-	define_pop = {	type = peasants	size = 2.787	culture = karelian	religion = catholic }
-	define_pop = {	type = peasants	size = 1.572	culture = karelian	religion = orthodox }
+	define_pop = {	type = peasants	size = 1.287	culture = karelian	religion = catholic }
+	define_pop = {	type = peasants	size = 1.072	culture = karelian	religion = orthodox }
 	define_pop = {	type = peasants	size = 0.129	culture = swedish	religion = catholic }
-	define_pop = {	type = tribesmen	size = 0.761	culture = karelian	religion = orthodox }
+	define_pop = {	type = tribesmen	size = 0.261	culture = karelian	religion = orthodox }
 } 
 villmanstrand = { #1531
 	define_pop = {	type = clergy	size = 0.009	culture = swedish	religion = catholic }
@@ -1247,10 +1247,10 @@ heinjoki = {#1 291
 	define_pop = {	type = peasants	size = 0.192	culture = karelian	religion = catholic }
 	define_pop = {	type = tribesmen	size = 0.313	culture = karelian	religion = orthodox }
 }
-jaskis = { #1101
+jaskis = { #1189
 	define_pop = {	type = clergy	size = 0.008	culture = swedish	religion = catholic }
 	define_pop = {	type = peasants	size = 0.151	culture = karelian	religion = catholic }
-	define_pop = {	type = peasants	size = 0.820	culture = karelian	religion = orthodox }
+	define_pop = {	type = peasants	size = 0.620	culture = karelian	religion = orthodox }
 	define_pop = {	type = tribesmen	size = 0.294	culture = karelian	religion = orthodox }
 	define_pop = {	type = tribesmen	size = 0.116	culture = karelian	religion = muinaisusko }
 }
@@ -1824,21 +1824,21 @@ lebesby = {
 	define_pop = {	type = tribesmen	size = 0.056	culture = sapmi	religion = sapmi_shamanism }
 }
 olonets = {
-	define_pop = {	type = peasants	size = 0.309	culture = karelian	religion = orthodox }
+	define_pop = {	type = peasants	size = 0.809	culture = karelian	religion = orthodox }
 	define_pop = {	type = peasants	size = 0.306	culture = karelian	religion = muinaisusko }
 	define_pop = {	type = tribesmen	size = 0.418	culture = karelian	religion = muinaisusko }
 }
 kinerma = {
 	define_pop = {	type = peasants	size = 0.298	culture = karelian	religion = orthodox }
-	define_pop = {	type = peasants	size = 0.274	culture = karelian	religion = muinaisusko }
+	define_pop = {	type = peasants	size = 0.378	culture = karelian	religion = muinaisusko }
 	define_pop = {	type = tribesmen	size = 0.426	culture = karelian	religion = muinaisusko }
 }
 kondpoga = {
-	define_pop = {	type = peasants	size = 0.014	culture = karelian	religion = orthodox }
+	define_pop = {	type = peasants	size = 0.114	culture = karelian	religion = orthodox }
 	define_pop = {	type = peasants	size = 0.107	culture = karelian	religion = muinaisusko }
 	define_pop = {	type = peasants	size = 0.122	culture = vepsian	religion = muinaisusko }
 	define_pop = {	type = tribesmen	size = 0.025	culture = karelian	religion = orthodox }
-	define_pop = {	type = tribesmen	size = 0.133	culture = karelian	religion = muinaisusko }
+	define_pop = {	type = tribesmen	size = 0.233	culture = karelian	religion = muinaisusko }
 	define_pop = {	type = tribesmen	size = 0.239	culture = vepsian	religion = muinaisusko }
 }
 ostrechiny = {
@@ -1847,7 +1847,7 @@ ostrechiny = {
 	define_pop = {	type = tribesmen	size = 0.491	culture = vepsian	religion = muinaisusko }
 }
 pryazha = {
-	define_pop = {	type = peasants	size = 0.298	culture = karelian	religion = orthodox }
+	define_pop = {	type = peasants	size = 0.276	culture = karelian	religion = orthodox }
 	define_pop = {	type = peasants	size = 0.215	culture = karelian	religion = muinaisusko }
 	define_pop = {	type = tribesmen	size = 0.485	culture = karelian	religion = muinaisusko }
 }
@@ -1866,10 +1866,10 @@ shyoltozero = {
 }
 vazhiny = {
 	define_pop = {	type = clergy	size = 0.011	culture = novgorodian	religion = orthodox }
-	define_pop = {	type = peasants	size = 0.078	culture = karelian	religion = orthodox }
+	define_pop = {	type = peasants	size = 0.179	culture = karelian	religion = orthodox }
 	define_pop = {	type = peasants	size = 0.258	culture = novgorodian	religion = orthodox }
-	define_pop = {	type = peasants	size = 0.259	culture = karelian	religion = muinaisusko }
-	define_pop = {	type = tribesmen	size = 0.425	culture = karelian	religion = muinaisusko }
+	define_pop = {	type = peasants	size = 0.270	culture = karelian	religion = muinaisusko }
+	define_pop = {	type = tribesmen	size = 0.325	culture = karelian	religion = muinaisusko }
 }
 lake_konchozero = {
 }
@@ -1894,12 +1894,12 @@ karhumagi = {
 	define_pop = {	type = peasants	size = 0.017	culture = karelian	religion = orthodox }
 	define_pop = {	type = peasants	size = 0.098	culture = karelian	religion = muinaisusko }
 	define_pop = {	type = peasants	size = 0.043	culture = vepsian	religion = muinaisusko }
-	define_pop = {	type = tribesmen	size = 0.028	culture = karelian	religion = orthodox }
+	define_pop = {	type = tribesmen	size = 0.128	culture = karelian	religion = orthodox }
 	define_pop = {	type = tribesmen	size = 0.114	culture = karelian	religion = muinaisusko }
 	define_pop = {	type = tribesmen	size = 0.096	culture = vepsian	religion = muinaisusko }
 }
 kizhi = {
-	define_pop = {	type = peasants	size = 0.013	culture = karelian	religion = orthodox }
+	define_pop = {	type = peasants	size = 0.113	culture = karelian	religion = orthodox }
 	define_pop = {	type = peasants	size = 0.018	culture = novgorodian	religion = orthodox }
 	define_pop = {	type = peasants	size = 0.080	culture = karelian	religion = muinaisusko }
 	define_pop = {	type = peasants	size = 0.060	culture = vepsian	religion = muinaisusko }
@@ -1909,10 +1909,10 @@ kizhi = {
 	define_pop = {	type = tribesmen	size = 0.065	culture = vepsian	religion = muinaisusko }
 }
 lindjarvi = {
-	define_pop = {	type = peasants	size = 0.022	culture = karelian	religion = orthodox }
-	define_pop = {	type = peasants	size = 0.042	culture = karelian	religion = muinaisusko }
-	define_pop = {	type = tribesmen	size = 0.028	culture = karelian	religion = orthodox }
-	define_pop = {	type = tribesmen	size = 0.077	culture = karelian	religion = muinaisusko }
+	define_pop = {	type = peasants	size = 0.122	culture = karelian	religion = orthodox }
+	define_pop = {	type = peasants	size = 0.142	culture = karelian	religion = muinaisusko }
+	define_pop = {	type = tribesmen	size = 0.128	culture = karelian	religion = orthodox }
+	define_pop = {	type = tribesmen	size = 0.177	culture = karelian	religion = muinaisusko }
 }
 nadvoitsy = {
 	define_pop = {	type = tribesmen	size = 0.184	culture = sapmi	religion = sapmi_shamanism }
@@ -1924,7 +1924,7 @@ puatane = {
 	define_pop = {	type = peasants	size = 0.009	culture = karelian	religion = orthodox }
 	define_pop = {	type = peasants	size = 0.051	culture = karelian	religion = muinaisusko }
 	define_pop = {	type = tribesmen	size = 0.014	culture = karelian	religion = orthodox }
-	define_pop = {	type = tribesmen	size = 0.087	culture = karelian	religion = muinaisusko }
+	define_pop = {	type = tribesmen	size = 0.187	culture = karelian	religion = muinaisusko }
 	define_pop = {	type = tribesmen	size = 0.103	culture = sapmi	religion = sapmi_shamanism }
 }
 sellinkyla = {
@@ -1934,9 +1934,9 @@ sellinkyla = {
 	define_pop = {	type = tribesmen	size = 0.020	culture = karelian	religion = orthodox }
 }
 semcojarvi = {
-	define_pop = {	type = peasants	size = 0.016	culture = karelian	religion = orthodox }
-	define_pop = {	type = peasants	size = 0.042	culture = karelian	religion = muinaisusko }
-	define_pop = {	type = tribesmen	size = 0.053	culture = karelian	religion = muinaisusko }
+	define_pop = {	type = peasants	size = 0.116	culture = karelian	religion = orthodox }
+	define_pop = {	type = peasants	size = 0.142	culture = karelian	religion = muinaisusko }
+	define_pop = {	type = tribesmen	size = 0.153	culture = karelian	religion = muinaisusko }
 }
 lake_gimoly = {
 }
@@ -2017,9 +2017,9 @@ korela = { #2 775
 	define_pop = {	type = tribesmen	size = 0.778	culture = karelian	religion = orthodox }
 	define_pop = {	type = tribesmen	size = 0.219	culture = karelian	religion = muinaisusko }
 }
-kurkijoki = { #1 125
+kurkijoki = { #1 425
 	define_pop = {	type = clergy	size = 0.008	culture = novgorodian	religion = orthodox }
-	define_pop = {	type = peasants	size = 0.141	culture = karelian	religion = orthodox }
+	define_pop = {	type = peasants	size = 0.441	culture = karelian	religion = orthodox }
 	define_pop = {	type = peasants	size = 0.372	culture = karelian	religion = muinaisusko }
 	define_pop = {	type = tribesmen	size = 0.193	culture = karelian	religion = orthodox }
 	define_pop = {	type = tribesmen	size = 0.411	culture = karelian	religion = muinaisusko }
@@ -2032,9 +2032,9 @@ konevets = { #1 532
 joensuu = {
 	define_pop = {	type = tribesmen	size = 0.153	culture = sapmi	religion = sapmi_shamanism }
 }
-sordavala = { #1 371
+sordavala = { #1 871
 	define_pop = {	type = clergy	size = 0.024	culture = novgorodian	religion = orthodox }
-	define_pop = {	type = peasants	size = 0.670	culture = karelian	religion = orthodox }
+	define_pop = {	type = peasants	size = 1.170	culture = karelian	religion = orthodox }
 	define_pop = {	type = tribesmen	size = 0.687	culture = karelian	religion = muinaisusko }
 }
 vartsila = { #555
@@ -2046,22 +2046,23 @@ ilomantsi = { #690
 	define_pop = {	type = tribesmen	size = 0.053	culture = sapmi	religion = sapmi_shamanism }
 }
 lieksa = {
+	define_pop = {	type = tribesmen	size = 0.182	culture = karelian	religion = muinaisusko }
 	define_pop = {	type = tribesmen	size = 0.075	culture = sapmi	religion = sapmi_shamanism }
 }
 juuka = {
 	define_pop = {	type = tribesmen	size = 0.124	culture = sapmi	religion = sapmi_shamanism }
 }
-salmi = { #797
+salmi = { #944
 	define_pop = {	type = peasants	size = 0.363	culture = karelian	religion = orthodox }
-	define_pop = {	type = peasants	size = 0.123	culture = karelian	religion = muinaisusko }
-	define_pop = {	type = tribesmen	size = 0.085	culture = karelian	religion = orthodox }
+	define_pop = {	type = peasants	size = 0.223	culture = karelian	religion = muinaisusko }
+	define_pop = {	type = tribesmen	size = 0.132	culture = karelian	religion = orthodox }
 	define_pop = {	type = tribesmen	size = 0.226	culture = karelian	religion = muinaisusko }
 }
-loimola = { #695
+loimola = { #1195
 	define_pop = {	type = peasants	size = 0.414	culture = karelian	religion = orthodox }
-	define_pop = {	type = peasants	size = 0.227	culture = karelian	religion = muinaisusko }
-	define_pop = {	type = tribesmen	size = 0.014	culture = karelian	religion = orthodox }
-	define_pop = {	type = tribesmen	size = 0.040	culture = karelian	religion = muinaisusko }
+	define_pop = {	type = peasants	size = 0.327	culture = karelian	religion = muinaisusko }
+	define_pop = {	type = tribesmen	size = 0.214	culture = karelian	religion = orthodox }
+	define_pop = {	type = tribesmen	size = 0.240	culture = karelian	religion = muinaisusko }
 }
 mohko = {
 	define_pop = {	type = tribesmen	size = 0.145	culture = sapmi	religion = sapmi_shamanism }
@@ -2091,7 +2092,7 @@ nurmes = {
 lake_ladoga = {
 }
 kem = {
-	define_pop = {	type = tribesmen	size = 0.282	culture = karelian	religion = muinaisusko }
+	define_pop = {	type = tribesmen	size = 0.382	culture = karelian	religion = muinaisusko }
 	define_pop = {	type = tribesmen	size = 0.049	culture = sapmi	religion = sapmi_shamanism }
 }
 keret = {
@@ -2104,7 +2105,7 @@ kriitina = {
 	define_pop = {	type = tribesmen	size = 0.253	culture = sapmi	religion = sapmi_shamanism }
 }
 saarijoki = {
-	define_pop = {	type = tribesmen	size = 0.171	culture = karelian	religion = muinaisusko }
+	define_pop = {	type = tribesmen	size = 0.271	culture = karelian	religion = muinaisusko }
 	define_pop = {	type = tribesmen	size = 0.030	culture = sapmi	religion = sapmi_shamanism }
 }
 lake_lindozero = {
@@ -2150,7 +2151,8 @@ kola_taiga = {
 lapland_taiga4 = {
 }
 umba = {
-	define_pop = {	type = tribesmen	size = 0.416	culture = sapmi	religion = sapmi_shamanism }
+	define_pop = {	type = tribesmen	size = 0.070	culture = pomor	religion = orthodox }
+	define_pop = {	type = tribesmen	size = 0.316	culture = sapmi	religion = sapmi_shamanism }
 }
 kantalahti = {
 	define_pop = {	type = tribesmen	size = 0.454	culture = sapmi	religion = sapmi_shamanism }
@@ -23936,9 +23938,9 @@ neva = {
 	define_pop = {	type = peasants	size = 1.855	culture = ingrian	religion = orthodox }
 	define_pop = {	type = peasants	size = 0.399	culture = novgorodian	religion = orthodox }
 }
-toksovo = {#1228
+toksovo = {#1628
 	define_pop = {	type = clergy	size = 0.012	culture = novgorodian	religion = orthodox }
-	define_pop = {	type = peasants	size = 0.912	culture = ingrian	religion = orthodox }
+	define_pop = {	type = peasants	size = 1.312	culture = ingrian	religion = orthodox }
 	define_pop = {	type = tribesmen	size = 0.304	culture = ingrian	religion = orthodox }
 }
 porkhov = {
