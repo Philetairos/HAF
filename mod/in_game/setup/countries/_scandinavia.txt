@@ -112,12 +112,12 @@ KVE = {
 #SVO = {
 #	color = map_savonian
 #	color2 = rgb { 16 41 202 }
-
+#
 #	culture_definition = savonian
 #	religion_definition = muinaisusko
-
-
-	
+#
+#
+#	
 #}
 
 

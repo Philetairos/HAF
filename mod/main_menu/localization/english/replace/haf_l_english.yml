@@ -1,0 +1,12 @@
+﻿l_english:
+ flavor_swe.42.desc: "With our embrace of the Reformation, the time has come to translate the Holy Bible into the [ShowDialectName('finnish_dialect')] language as well. This will make it much easier to spread the teachings of the Bible to [ShowCultureName('finnish')] people in our country. In preparation for this task, a new book has been written, aimed to teach people to read and write in [ShowDialectName('finnish_dialect')].\n\n'Learn now, old and young, who have a fresh heart, God's commandments and the mind, so that you shall know the [ShowDialectNameWithNoTooltip('finnish_dialect')] language.'"
+ flavor_swe.44.desc: "There is possibly [ShowGoodsName('iron')] in the deep forest near the Lake Lohjanjärvi. Ojamo holds rich veins of [ShowGoodsNameWithNoTooltip('iron')] ore, a resource that could prove invaluable to the [ROOT.GetCountry.GetFlavorRank]'s budding industries and military ambitions. For decades, this region of [ShowAreaName('finland_area')] has been prized for its timber and farmland, but the discovery of [ShowGoodsNameWithNoTooltip('iron')] at Ojamo marks a turning point for [ShowLocationName('sjundea')]'s future."
+ flavor_swe.44.historical_info: "King Gustav Vasa granted Sir Erik Flemming of Sjundeå permission to mine for iron ore. In 1542, the iron ore started to be mined in Ojamo near Lojo/Lohja, creating the oldest known iron mine in Finland."
+
+ name_michael.finnish_language: "Mikael"
+
+ BIO: "Ösel-Wiek"
+ PRM: "Great Perm"
+
+ vyborg_province: "Viborg Karelia"
+ korela_province: "Ladoga Karelia"
